@@ -1,0 +1,48 @@
+<incidencias>
+    <incidencia>
+        <usuario>
+            <nom>Miguel Torres Castro</nom>
+            <mail>raul.juarez.7e8@itb.cat</mail> 
+            <protDatos>He leído la información relativa sobre la protección de datos.<protDatos/>
+        </usuario>
+
+        <dispositivo>
+            <id>40500</id>
+            <aula>309</aula>
+
+            <problema>
+                <fecha>04/10/2024</fecha>
+                <tipoP>Fallo de Software</tipoP>
+                <descripcion>Cada vez que intento abrir cualquier programa, me aparece un pantallazo azul y se apaga el pc</descripcion>
+                <urgencia>10</urgencia>
+                <propuesta></propuesta>
+            </problema>
+
+        </dispositivo>
+        
+    </incidencia>
+
+    <incidencia>
+        <usuario>
+            <nom>David Moles Castro</nom>
+            <mail>raul.juarez.7e8@itb.cat</mail>     
+            <protDatos>He leído la información relativa sobre la protección de datos.<protDatos/>
+        </usuario>
+
+        <dispositivo>
+            <id>10002</id>
+            <aula>303</aula>
+
+            <problema>
+                <fecha>04/10/2024</fecha>
+                <tipoP>Fallo de Hardware</tipoP>
+                <descripcion>Ordenador no enciende</descripcion>
+                <urgencia>10</urgencia>
+                <propuesta></propuesta>
+            </problema>
+            
+        </dispositivo>
+    
+    </incidencia>
+
+</incidencias>
