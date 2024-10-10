@@ -1,0 +1,1472 @@
+<incidencias>
+  <incidencia>
+      <fecha>"Marca temporal"</fecha>
+      <mail>"Nombre de usuario"
+      <protDatos>"INFORMACIÓN RELATIVA SOBRE LA PROTECCIÓN DE DATOS"
+      <nombre>"NOMBRE Y APELLIDOS"
+      <aula>"AULA/SALA DE LA INCIDENCIA"
+      <fecha>"FECHA DE LA INCIDENCIA"
+      <id>"IDENTIFICACIÓN DEL EQUIPO AFECTADO"
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"(revisar código de la etiqueta blanca)"</fecha>
+      <mail>"TIPO DE INCIDENCIA"
+      <protDatos>"DESCRIPCIÓN DE LA INCIDENCIA"
+      <nombre>"¿De un grado del 1 al 10"
+      <aula>"siendo el 1 poco urgente y el 10 muy urgente"
+      <fecha>"qu�&copy; nivel tiene tu incidencia?"
+      <id>"¿QUÉ PROPUESTA TIENES PARA SOLUCIONAR LA INCIDENCIA?"
+      <tipoP>"ARCHIVOS/IMÁGENES SOBRE LA INCIDENCIA"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:26:20 a. m. EEST"</fecha>
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan Aguilera"
+      <aula>"206"
+      <fecha>"9/2/2024"
+      <id>"1641784561"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"Me falla el disco y no puedo iniciar el ordenador"
+      <urgencia>"10"
+      <propuesta>"Cambiarel disco duro"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:27:58 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan Aguilera"
+      <aula>"206"
+      <fecha>"9/3/2024"
+      <id>"12345"
+      <tipoP>"Fallo de Software"
+      <descripción>"No me inicia el chrome"
+      <urgencia>"3"
+      <propuesta>"Actualizar el sistema para ver si se solucióna"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:28:16 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan Castro"
+      <aula>"206"
+      <fecha>"10/3/2024"
+      <id>"72813"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No se muestra la imagen correctamente."
+      <urgencia>"9"
+      <propuesta>"Cambiar los cables o el propio monitor"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:28:36 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Javier Vericat"
+      <aula>"Aula 101"
+      <fecha>"10/3/2024"
+      <id>"12345"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"El ordenador no enciende y presenta un sonido de pitidos al intentar iniciar."
+      <urgencia>"9"
+      <propuesta>"Revisar la fuente de alimentación y el hardware interno."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:29:00 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan Nieto"
+      <aula>"206"
+      <fecha>"9/3/2024"
+      <id>"23145"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"El cable HDMI se ve roto y funciona por peque�&plusmn;os momentos"
+      <urgencia>"9"
+      <propuesta>"Cambiar el cable"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:29:58 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan Aguilera"
+      <aula>"206"
+      <fecha>"8/1/2024"
+      <id>"206"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El monitor esta roto"
+      <urgencia>"10"
+      <propuesta>"Cambiar el monitor"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:30:29 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Juan Perez Martinez"
+      <aula>"409"
+      <fecha>"10/1/2024"
+      <id>"7890"
+      <tipoP>"Fallo de Software"
+      <descripción>"Cada vez que abro el programa Pycharm se cierra automáticamente."
+      <urgencia>"7"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:30:59 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan Daniel Aguilera"
+      <aula>"206"
+      <fecha>"5/1/2024"
+      <id>"32654"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"Al teclado le hacen falta teclas"
+      <urgencia>"8"
+      <propuesta>"Colocar las teclas que hacen falta o cambiarlo"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:31:14 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Manuel González"
+      <aula>"301"
+      <fecha>"10/1/2024"
+      <id>"99232"
+      <tipoP>"Fallo de Software"
+      <descripción>"No se iniciar distintos programas al iniciar sesión con mi cuenta del instituto."
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:31:38 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Juan P�&copy;rez"
+      <aula>"101"
+      <fecha>"10/1/2024"
+      <id>"47689"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"La computadora no enciende."
+      <urgencia>"10"
+      <propuesta>"Revisar la fuente de alimentación."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:32:59 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Gabriel Triguero"
+      <aula>"207"
+      <fecha>"9/26/2024"
+      <id>"23804"
+      <tipoP>"Incidencias de Seguridad"
+      <descripción>"No se bloquea correctamente la carpeta de mi dispositivo"
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:33:15 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Laura Martin Delgado"
+      <aula>"105"
+      <fecha>"9/19/2024"
+      <id>"7980"
+      <tipoP>"Fallo de Software"
+      <descripción>"Al iniciar el sistema"
+      <urgencia>"salta un pantallazo azul y se apaga automáticamente."
+      <propuesta>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:35:57 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Luis P�&copy;rez"
+      <aula>"112"
+      <fecha>"10/3/2024"
+      <id>"44123"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El click izquierdo del ratón no funciona correctamente."
+      <urgencia>"6"
+      <propuesta>"Renovar los perif�&copy;ricos."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:37:04 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Ana García"
+      <aula>"202"
+      <fecha>"10/31/2024"
+      <id>"18769"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No se conecta a Wi-Fi."
+      <urgencia>"7"
+      <propuesta>"Reiniciar el router."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:37:19 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan"
+      <aula>"206"
+      <fecha>"4/1/2024"
+      <id>"16123"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El cursor del ratón se mueve solo"
+      <urgencia>"6"
+      <propuesta>"Limpiar el"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:38:32 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Luis P�&copy;rez"
+      <aula>"103"
+      <fecha>"10/15/2024"
+      <id>"90766"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El proyector no muestra imagen."
+      <urgencia>"10"
+      <propuesta>"Verificar conexiones."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:38:35 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"ManuelTorres"
+      <aula>"412"
+      <fecha>"10/2/2024"
+      <id>"15236"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"LaBarraEspaciadoraDeMiTecladoNoFunciona"
+      <urgencia>"9"
+      <propuesta>"CambiarLosPerif�&copy;ricosORenovarlos"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:40:31 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Marta López"
+      <aula>"105"
+      <fecha>"7/1/2023"
+      <id>"66666"
+      <tipoP>"Fallo de Software"
+      <descripción>"La aplicación no se abre."
+      <urgencia>"6"
+      <propuesta>"Reinstalar la aplicación."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:40:53 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"bryan daniel"
+      <aula>"206"
+      <fecha>"5/3/2024"
+      <id>"16123"
+      <tipoP>"Problemas de Alimentación"
+      <descripción>"no enciende el pc"
+      <urgencia>"6"
+      <propuesta>"nose"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:42:10 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Carlos Ruiz"
+      <aula>"104"
+      <fecha>"11/1/2024"
+      <id>"77865"
+      <tipoP>"Problemas de Alimentación"
+      <descripción>"El PC no enciende."
+      <urgencia>"9"
+      <propuesta>"Comprobar el cable de alimentación."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:42:16 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Arnau Díaz"
+      <aula>"27"
+      <fecha>"10/1/2024"
+      <id>"66273"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"Mi sistema no se conecta a la red del centro"
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 11:44:51 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Victor Casta�&plusmn;eda"
+      <aula>"116"
+      <fecha>"9/23/2024"
+      <id>"25390"
+      <tipoP>"Fallo de Software"
+      <descripción>"No inicia correctamente la máquina virtual."
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 12:19:15 p. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Raúl Juárez Ortega"
+      <aula>"206"
+      <fecha>"9/11/2024"
+      <id>"546"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El monitor no enciende."
+      <urgencia>"6"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/03 10:41:07 p. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Agustín Martos Ferrer"
+      <aula>"105"
+      <fecha>"10/2/2024"
+      <id>"9666"
+      <tipoP>"Fallo de Software"
+      <descripción>"Google Chrome se cierra inesperadamente"
+      <urgencia>"3"
+      L="https://drive.google.com/u/0/open?usp=forms_web&amp;i<nombre>15-oBT2z0cHr-JWmGmK0hXmzADccIQoup"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:06:11 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Cristian Villa"
+      <aula>"344"
+      <fecha>"9/25/2024"
+      <id>"46151"
+      <tipoP>"Fallo de Software"
+      <descripción>"No se ejecutan los programas"
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:08:46 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Teresa Martínez"
+      <aula>"333"
+      <fecha>"5/1/2024"
+      <id>"90675"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"esta de color rosa"
+      <urgencia>"4"
+      <propuesta>"resetear de fabrica"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:09:38 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Andr�&copy;s Suárez"
+      <aula>"205"
+      <fecha>"10/2/2024"
+      <id>"41578"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"Algunas teclas a veces no funcionan."
+      <urgencia>"7"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:10:17 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Isaac Ardid Farr�&copy;"
+      <aula>"109"
+      <fecha>"10/4/2024"
+      <id>"15645"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El mouse ha dejado de funcionar"
+      <urgencia>"6"
+      <propuesta>"Cambiar el mouse"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:11:38 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Manolo Lama Ortega"
+      <aula>"555"
+      <fecha>"6/4/2021"
+      <id>"12346"
+      <tipoP>"Problemas de Software Educativo"
+      <descripción>"no funciona el students"
+      <urgencia>"8"
+      <propuesta>"hacer reset del cache"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:11:45 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Roman García"
+      <aula>"114"
+      <fecha>"10/1/2024"
+      <id>"79112"
+      <tipoP>"Desgaste y Mantenimiento"
+      <descripción>"Algunas de las teclas del teclado se quedan atascadas."
+      <urgencia>"6"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:12:54 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"anuard"
+      <aula>"206"
+      <fecha>"3/5/2024"
+      <id>"13564"
+      <tipoP>"Problemas de Alimentación"
+      <descripción>"no funciona el pc"
+      <urgencia>"10"
+      <propuesta>"cambiar la fuente de poder"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:13:23 a. m. EEST"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Marc Marquez Loma"
+      <aula>"78"
+      <fecha>"11/29/2024"
+      <id>"67539"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El teclado esta mordido"
+      <urgencia>"6"
+      <propuesta>"Cambiar el teclado"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:14:30 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Cristobal Barrera"
+      <aula>"207"
+      <fecha>"10/3/2024"
+      <id>"59909"
+      <tipoP>"Fallo de Software"
+      <descripción>"No inicia la VM"
+      <urgencia>"7"
+      <propuesta>"Actualizar el programa o darle un mantenimiento"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:14:49 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Juan pepito"
+      <aula>"105"
+      <fecha>"5/3/2024"
+      <id>"65845"
+      <tipoP>"Desgaste y Mantenimiento"
+      <descripción>"El ordenador esta demasiado viejo y desgastado"
+      <urgencia>"9"
+      <propuesta>"Cambiar el ordenador"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:16:42 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Pepito"
+      <aula>"106"
+      <fecha>"2/3/2020"
+      <id>"12456"
+      <tipoP>"Incidencias de Seguridad"
+      <descripción>"Los ordenadores tienen una vulnerabilidad para conseguir permisos de administradores"
+      <urgencia>"10"
+      <propuesta>"Parchear esta vulnerabilidad"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:17:00 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Manel Álvarez"
+      <aula>"301"
+      <fecha>"9/26/2024"
+      <id>"85386"
+      <tipoP>"Problemas de Alimentación"
+      <descripción>"Se apaga el equipo constantemente."
+      <urgencia>"10"
+      <propuesta>"Mantenimiento"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:17:14 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"l90675"
+      <aula>"9o0675"
+      <fecha>"10/17/2024"
+      <id>"88888"
+      <tipoP>"Desgaste y Mantenimiento"
+      <descripción>"El ordenador esta muy sucio"
+      <urgencia>"5"
+      <propuesta>"limpiarlo"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:17:41 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Mateo Palacios"
+      <aula>"504"
+      <fecha>"12/3/2023"
+      <id>"32654"
+      <tipoP>"Fallo de Software"
+      <descripción>"No inicia el ubuntu"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:18:15 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"David Moles Castro"
+      <aula>"303"
+      <fecha>"10/3/2024"
+      <id>"10002"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"Ordenador no enciende"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:18:51 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Victor Jim�&copy;nez"
+      <aula>"105"
+      <fecha>"10/2/2024"
+      <id>"1319"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No funciona el click derecho del ratón"
+      <urgencia>"7"
+      <propuesta>"Cambiarlo"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:18:51 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Salome"
+      <aula>"205"
+      <fecha>"2/3/2024"
+      <id>"36548"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No funciona el raton"
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:19:27 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Castro Roman Perez"
+      <aula>"91"
+      <fecha>"6/22/2022"
+      <id>"10001"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"La grafica no funciona"
+      <urgencia>"9"
+      <propuesta>"Cambiar la grafica"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:19:52 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Paula"
+      <aula>"106"
+      <fecha>"8/5/2024"
+      <id>"32756"
+      <tipoP>"Problemas de Alimentación"
+      <descripción>"Se apaga el ordenador al momento de exigirle un poco"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:20:25 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryan Castro"
+      <aula>"206"
+      <fecha>"10/2/2024"
+      <id>"85477"
+      <tipoP>"Fallo de Software"
+      <descripción>"No funcionan ciertos programas"
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:21:17 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Salomon"
+      <aula>"208"
+      <fecha>"10/5/2024"
+      <id>"78945"
+      <tipoP>"Incidencias de Seguridad"
+      <descripción>"No me deja ingresar mi contrase�&plusmn;a en mi usuario"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:21:32 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Laura García P�&copy;rez"
+      <aula>"101"
+      <fecha>"9/20/2024"
+      <id>"89"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No se puede conectar a la red."
+      <urgencia>"9"
+      <propuesta>"Reiniciar el router."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:22:01 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"David"
+      <aula>"856"
+      <fecha>"8/5/2024"
+      <id>"78564"
+      <tipoP>"Incidencias de Seguridad"
+      <descripción>"El usuario sjo me pide contrase�&plusmn;a"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:22:08 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Guillermo Casas"
+      <aula>"211"
+      <fecha>"10/3/2024"
+      <id>"81002"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"No se guardan ciertos ajustes del sistema"
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:22:38 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Ana Rodríguez Sánchez"
+      <aula>"209"
+      <fecha>"10/1/2024"
+      <id>"40500"
+      <tipoP>"Incidencias de Seguridad"
+      <descripción>"El antivirus detecta un malware."
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:22:57 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Diana"
+      <aula>"208"
+      <fecha>"8/6/2024"
+      <id>"69854"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"No tengo internet"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:23:37 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Paola"
+      <aula>"201"
+      <fecha>"2/3/2024"
+      <id>"46582"
+      <tipoP>"Problemas de Software Educativo"
+      <descripción>"No me carga el classrom"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:23:41 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Kiko Montero"
+      <aula>"215"
+      <fecha>"9/25/2024"
+      <id>"44173"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No se conecta a Internet"
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:23:51 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Carlos Fernández Gómez"
+      <aula>"206"
+      <fecha>"10/2/2024"
+      <id>"50061"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"La pantalla se queda en negro al encender."
+      <urgencia>"7"
+      <propuesta>"Comprobar las conexiones del monitor."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:24:32 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Andrea"
+      <aula>"504"
+      <fecha>"1/3/2024"
+      <id>"65987"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"El cable HDMI esta verde"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:24:49 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"María López Torres"
+      <aula>"205"
+      <fecha>"9/30/2024"
+      <id>"33056"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"La impresora no responde."
+      <urgencia>"4"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:24:53 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Izan Romero Guil"
+      <aula>"666"
+      <fecha>"5/17/2024"
+      <id>"45687"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No va el internet"
+      <urgencia>"7"
+      <propuesta>"Cambiar el router"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:25:58 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Gerard Ribes"
+      <aula>"114"
+      <fecha>"10/1/2024"
+      <id>"49083"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El sensor del ratón no funciona correctamente"
+      <urgencia>"8"
+      <propuesta>"Cambiar el ratón"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:26:06 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Trueno"
+      <aula>"205"
+      <fecha>"2/3/2024"
+      <id>"488965"
+      <tipoP>"Problemas de Software Educativo"
+      <descripción>"No me carga la pagina del instituto"
+      <urgencia>"4"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:27:07 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Cristal"
+      <aula>"107"
+      <fecha>"5/3/2024"
+      <id>"49756"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No funciona el teclado"
+      <urgencia>"10"
+      <propuesta>"Cambiar el teclado"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:27:08 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Pedro Sánchez Ruiz"
+      <aula>"502"
+      <fecha>"9/27/2024"
+      <id>"60111"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"No puedo acceder a mi cuenta."
+      <urgencia>"8"
+      <propuesta>"Solicitar un restablecimiento de contrase�&plusmn;a."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:27:18 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Pedro Fernández"
+      <aula>"303"
+      <fecha>"10/2/2024"
+      <id>"89031"
+      <tipoP>"Problemas de Alimentación"
+      <descripción>"No enciende el ordenador"
+      <urgencia>"9"
+      <propuesta>"Mantenimiento"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:27:25 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Andres Iniesta Martinez"
+      <aula>"712"
+      <fecha>"10/20/2017"
+      <id>"58679"
+      <tipoP>"Fallo de Software"
+      <descripción>"El ubuntu no funciona"
+      <urgencia>"7"
+      <propuesta>"Restaurar el equipo de fabrica"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:28:11 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Sofía Jim�&copy;nez Martín"
+      <aula>"110"
+      <fecha>"9/25/2024"
+      <id>"12006"
+      <tipoP>"Fallo de Software"
+      <descripción>"La aplicación tarda mucho en cargar."
+      <urgencia>"2"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:28:16 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Samuel"
+      <aula>"207"
+      <fecha>"1/9/2024"
+      <id>"79864"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"El ordenador solo tiene 2 GB de memoria Ram y funciona super lento"
+      <urgencia>"10"
+      <propuesta>"A�&plusmn;adirle mas ram"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:28:32 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Miguel Lozano"
+      <aula>"201"
+      <fecha>"9/30/2024"
+      <id>"57316"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No se conecta a Internet"
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:28:52 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Lionel Andres Messi"
+      <aula>"10"
+      <fecha>"10/23/2025"
+      <id>"90687"
+      <tipoP>"Incidencias de Seguridad"
+      <descripción>"Han Hackeado el ordenador"
+      <urgencia>"9"
+      <propuesta>"Reinstalar el ubuntu"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:29:17 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Juancarlos"
+      <aula>"209"
+      <fecha>"5/8/2024"
+      <id>"35768"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El monitor se apaga solo"
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:30:15 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Dominic Toretto Brasas"
+      <aula>"456"
+      <fecha>"2/15/2024"
+      <id>"28796"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"El raton no funciona"
+      <urgencia>"8"
+      <propuesta>"Cambiar el raton"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:30:19 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bryant Mayers"
+      <aula>"106"
+      <fecha>"8/3/2024"
+      <id>"46853"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No funciona el raton"
+      <urgencia>"8"
+      <propuesta>"Cambiar el raton"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:30:29 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Martín Navas"
+      <aula>"204"
+      <fecha>"9/24/2024"
+      <id>"41729"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"Mucho ruido de la torre"
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:31:01 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Jon Z"
+      <aula>"106"
+      <fecha>"10/5/2024"
+      <id>"32645"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No Funcionan los altavoces"
+      <urgencia>"2"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:31:57 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Roberto Almarsa"
+      <aula>"209"
+      <fecha>"10/1/2024"
+      <id>"78312"
+      <tipoP>"Problemas de Alimentación"
+      <descripción>"No incia el equipo"
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:32:12 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Mouko Ensufatileli Botuteli"
+      <aula>"876"
+      <fecha>"10/17/2018"
+      <id>"43218"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"El ubuntu esta bloqueado"
+      <urgencia>"7"
+      <propuesta>"Poner la contrase�&plusmn;a de seguridad"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:32:20 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Maria"
+      <aula>"36574"
+      <fecha>"9/5/2024"
+      <id>"98746"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No me deja conectar ningún disco duro externo al ordenador"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:32:36 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Elena Ruiz Díaz"
+      <aula>"303"
+      <fecha>"9/18/2024"
+      <id>"66054"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"La conexión a internet se corta frecuentemente."
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:33:40 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Alvaro Diaz"
+      <aula>"107"
+      <fecha>"10/4/2024"
+      <id>"36251"
+      <tipoP>"Desgaste y Mantenimiento"
+      <descripción>"Se sobre calienta el ordenador"
+      <urgencia>"8"
+      <propuesta>"Limpiar los componentes del ordenador"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:34:11 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Lamine Yamal Mohamed"
+      <aula>"907"
+      <fecha>"8/4/2023"
+      <id>"76895"
+      <tipoP>"Incidencias de Seguridad"
+      <descripción>"Ha entrado un virus"
+      <urgencia>"10"
+      <propuesta>"Instalar un antivirus"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:34:25 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Lionel Ronaldo Jr"
+      <aula>"312"
+      <fecha>"9/19/2024"
+      <id>"20355"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"Algunas teclas no funcionan."
+      <urgencia>"6"
+      <propuesta>"Limpiar el teclado."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:34:57 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Maria becerra"
+      <aula>"106"
+      <fecha>"3/5/2024"
+      <id>"95368"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"Las teclas del teclado se quedan pegadas cuando las presionas"
+      <urgencia>"9"
+      <propuesta>"Cambiar el teclado o limpiar este"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:35:13 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Agustín Nu�&plusmn;ez"
+      <aula>"204"
+      <fecha>"10/2/2024"
+      <id>"71839"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"Con funciona la rueda del ratón"
+      <urgencia>"7"
+      <propuesta>"Cambiar el ratón"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:35:30 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Pep Haland De Bruyne"
+      <aula>"40128"
+      <fecha>"7/4/2024"
+      <id>"77777"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"Se han comido el cable hdmi"
+      <urgencia>"6"
+      <propuesta>"Cambiar el cable"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:35:59 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Juan Carlos Ramos"
+      <aula>"420"
+      <fecha>"9/11/2024"
+      <id>"22590"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No se escucha nada en el ordenador."
+      <urgencia>"7"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:36:11 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Nicky Jam"
+      <aula>"106"
+      <fecha>"10/9/2024"
+      <id>"69853"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"La hora esta mal lleva dos horas adelantadas"
+      <urgencia>"2"
+      <propuesta>"Cambiar la hora a la correcta"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:36:44 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Ronaldinho Do Santos"
+      <aula>"110"
+      <fecha>"10/1/2024"
+      <id>"98735"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No se conecta a la red"
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:36:54 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Mohamed Ali Sukongo"
+      <aula>"666"
+      <fecha>"11/13/2014"
+      <id>"47567"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"Han robado una grafica"
+      <urgencia>"8"
+      <propuesta>"Cambiar la grafica"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:37:05 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Pedro Peligro"
+      <aula>"106"
+      <fecha>"10/4/2024"
+      <id>"64853"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No funciona el mouse"
+      <urgencia>"5"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:37:26 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Fernando Torres Torres"
+      <aula>"200"
+      <fecha>"10/4/2024"
+      <id>"321"
+      <tipoP>"Fallo de Software"
+      <descripción>"No puedo instalar Visual Studio"
+      <urgencia>"4"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:38:01 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Laura Melendi Londra"
+      <aula>"77"
+      <fecha>"11/8/2024"
+      <id>"45765"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"El ordenador se ha incendiado"
+      <urgencia>"10"
+      <propuesta>"Cambiar el ordenador"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:38:11 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Cristian"
+      <aula>"106"
+      <fecha>"8/20/2024"
+      <id>"79531"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"No da video el ordenador"
+      <urgencia>"10"
+      <propuesta>"Revisar la tarjeta grafica"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:38:19 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Marc Martínez"
+      <aula>"202"
+      <fecha>"10/3/2024"
+      <id>"14378"
+      <tipoP>"Fallo de Hardware"
+      <descripción>"Faltan componentes en el equipo"
+      <urgencia>"10"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:38:29 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Marta Ortega Castillo"
+      <aula>"111"
+      <fecha>"9/25/2024"
+      <id>"80895"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"Mis archivos no se sincronizan en la nube."
+      <urgencia>"3"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:39:28 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Mark"
+      <aula>"106"
+      <fecha>"10/8/2024"
+      <id>"92587"
+      <tipoP>"Problemas de Conectividad"
+      <descripción>"No funcionan los puertos USB de mi ordenador"
+      <urgencia>"9"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:39:40 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Bukele Ansu Fati"
+      <aula>"340"
+      <fecha>"5/4/2024"
+      <id>"76850"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"han robado el raton"
+      <urgencia>"4"
+      <propuesta>"Comprar uno nuevo"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:39:49 a. m. EEST"
+      <mail>"bryan.castro.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Uvuvwevwevwe Onyetenyevwe Ugwemubwem Ossas"
+      <aula>"201"
+      <fecha>"10/4/2024"
+      <id>"11897"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"No funciona el botón izquierdo del ratón"
+      <urgencia>"8"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:39:54 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Pablo Iglesias Abascal"
+      <aula>"666"
+      <fecha>"9/24/2024"
+      <id>"8900"
+      <tipoP>"Fallo de Software"
+      <descripción>"No tengo acceso a ciertas carpetas."
+      <urgencia>"4"
+      <propuesta>"Solicitar permisos al administrador."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:40:29 a. m. EEST"
+      <mail>"bryan.aguilera.7e6@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Duki"
+      <aula>"106"
+      <fecha>"10/4/2024"
+      <id>"98426"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"Me inicia el Windows en vez de en sistema operativo Windows"
+      <urgencia>"5"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:40:59 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Nicolás Soto Aguirre"
+      <aula>"401"
+      <fecha>"10/2/2024"
+      <id>"44545"
+      <tipoP>"Problemas de Configuración"
+      <descripción>"La cámara no se activa durante las videollamadas."
+      <urgencia>"3"
+      <propuesta>"Comprobar la configuración de la cámara en la aplicación."
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:41:00 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Russel Putin Alfrega"
+      <aula>"555"
+      <fecha>"11/29/2024"
+      <id>"86456"
+      <tipoP>"Problemas de Software Educativo"
+      <descripción>"El Controlador de alumnos no funcionan"
+      <urgencia>"10"
+      <propuesta>"Reinstalar la aplicacion"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 9:42:30 a. m. EEST"
+      <mail>"javier.vericat.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Helinge Bolukeke Han"
+      <aula>"888"
+      <fecha>"10/4/2024"
+      <id>"4"
+      <tipoP>"Problemas de Perif�&copy;ricos"
+      <descripción>"Alguien ha golpeado la pantalla"
+      <urgencia>"8"
+      <propuesta>"Cambiar la pantalla"
+    
+  </incidencia>
+  <incidencia>
+    
+      <fecha>"2024/10/04 10:55:03 a. m. EEST"
+      <mail>"raul.juarez.7e8@itb.cat"
+      <protDatos>"He leído la información relativa sobre la protección de datos."
+      <nombre>"Miguel Torres Castro"
+      <aula>"309"
+      <fecha>"9/24/2024"
+      <id>"40500"
+      <tipoP>"Fallo de Software"
+      <descripción>"Cada vez que intento abrir cualquier programa"
+      <urgencia>"me aparece un pantallazo azul y se apaga el pc"
+      <propuesta>"10"
+      M="https://drive.google.com/u/0/open?usp=forms_web&amp;i<nombre>1xXVe5h0Be5yWQ1XG1wnAhVZe-qmE9dET"
+    
+  </incidencia>
+</incidencias>
