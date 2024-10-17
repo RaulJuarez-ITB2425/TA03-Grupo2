@@ -1,13 +1,11 @@
 <incidencias>
     <incidencia>
     
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Aguilera"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -22,13 +20,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Aguilera"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -43,13 +39,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Castro"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -64,13 +58,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Javier Vericat"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"Aula 101"</aula>
@@ -85,13 +77,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Nieto"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -106,13 +96,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Aguilera"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -127,13 +115,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan Perez Martinez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"409"</aula>
@@ -146,13 +132,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Daniel Aguilera"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -167,13 +151,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Manuel González"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"301"</aula>
@@ -186,13 +168,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan Pérez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"101"</aula>
@@ -207,13 +187,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Gabriel Triguero"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"207"</aula>
@@ -226,13 +204,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Laura Martin Delgado"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"105"</aula>
@@ -247,13 +223,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Luis Pérez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"112"</aula>
@@ -268,13 +242,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Ana García"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"202"</aula>
@@ -289,13 +261,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -310,13 +280,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Luis Pérez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"103"</aula>
@@ -331,13 +299,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"ManuelTorres"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"412"</aula>
@@ -352,13 +318,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marta López"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"105"</aula>
@@ -373,13 +337,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"bryan daniel"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -394,13 +356,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Carlos Ruiz"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"104"</aula>
@@ -415,13 +375,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Arnau Díaz"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"27"</aula>
@@ -439,7 +397,6 @@
 	        <nombre>"Victor Casta�&plusmn;eda"</nombre>
 		</usuario>
 
-
 		<problema>
 	        <aula>"116"</aula>
 	        <fecha>"9/23/2024"</fecha>
@@ -456,7 +413,6 @@
 	        <nombre>"Raúl Juárez Ortega"</nombre>
 		</usuario>
 
-
 		<problema>
 	        <aula>"206"</aula>
 	        <fecha>"9/11/2024"</fecha>
@@ -472,7 +428,6 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Agustín Martos Ferrer"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"105"</aula>
@@ -493,7 +448,6 @@
 	        <nombre>"Cristian Villa"</nombre>
 		</usuario>
 
-
 		<problema>
 	        <aula>"344"</aula>
 	        <fecha>"9/25/2024"</fecha>
@@ -509,7 +463,6 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Teresa Martínez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"333"</aula>
@@ -529,7 +482,6 @@
 	        <nombre>"Andrés Suárez"</nombre>
 		</usuario>
 
-
 		<problema>
 	        <aula>"205"</aula>
 	        <fecha>"10/2/2024"</fecha>
@@ -545,7 +497,6 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Isaac Ardid Farré"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"109"</aula>
@@ -565,7 +516,6 @@
 	        <nombre>"Manolo Lama Ortega"</nombre>
 		</usuario>
 
-
 		<problema>
 	        <aula>"555"</aula>
 	        <fecha>"6/4/2021"</fecha>
@@ -584,7 +534,6 @@
 	        <nombre>"Roman García"</nombre>
 		</usuario>
 
-
 		<problema>
 	        <aula>"114"</aula>
 	        <fecha>"10/1/2024"</fecha>
@@ -600,7 +549,6 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"anuard"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -620,7 +568,6 @@
 	        <nombre>"Marc Marquez Loma"</nombre>
 		</usuario>
 
-
 		<problema>
 	        <aula>"78"</aula>
 	        <fecha>"11/29/2024"</fecha>
@@ -634,13 +581,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristobal Barrera"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"207"</aula>
@@ -655,13 +600,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan pepito"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"105"</aula>
@@ -676,13 +619,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pepito"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -697,13 +638,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Manel Álvarez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"301"</aula>
@@ -718,13 +657,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"l90675"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"9o0675"</aula>
@@ -739,13 +676,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mateo Palacios"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"504"</aula>
@@ -758,13 +693,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"David Moles Castro"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"303"</aula>
@@ -777,13 +710,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Victor Jiménez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"105"</aula>
@@ -798,13 +729,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Salome"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"205"</aula>
@@ -817,13 +746,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Castro Roman Perez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"91"</aula>
@@ -838,13 +765,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Paula"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -857,13 +782,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Castro"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -876,13 +799,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Salomon"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"208"</aula>
@@ -895,13 +816,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Laura García Pérez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"101"</aula>
@@ -916,13 +835,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"David"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"856"</aula>
@@ -935,13 +852,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Guillermo Casas"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"211"</aula>
@@ -954,13 +869,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Ana Rodríguez Sánchez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"209"</aula>
@@ -973,13 +886,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Diana"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"208"</aula>
@@ -992,13 +903,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Paola"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"201"</aula>
@@ -1011,13 +920,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Kiko Montero"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"215"</aula>
@@ -1030,13 +937,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Carlos Fernández Gómez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"206"</aula>
@@ -1051,13 +956,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Andrea"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"504"</aula>
@@ -1070,13 +973,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"María López Torres"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"205"</aula>
@@ -1089,13 +990,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Izan Romero Guil"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"666"</aula>
@@ -1110,13 +1009,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Gerard Ribes"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"114"</aula>
@@ -1131,13 +1028,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Trueno"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"205"</aula>
@@ -1150,13 +1045,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristal"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"107"</aula>
@@ -1171,13 +1064,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pedro Sánchez Ruiz"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"502"</aula>
@@ -1192,13 +1083,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pedro Fernández"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"303"</aula>
@@ -1213,13 +1102,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Andres Iniesta Martinez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"712"</aula>
@@ -1234,13 +1121,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Sofía Jiménez Martín"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"110"</aula>
@@ -1253,13 +1138,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Samuel"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"207"</aula>
@@ -1274,13 +1157,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Miguel Lozano"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"201"</aula>
@@ -1293,13 +1174,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Lionel Andres Messi"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"10"</aula>
@@ -1314,13 +1193,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juancarlos"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"209"</aula>
@@ -1333,13 +1210,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Dominic Toretto Brasas"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"456"</aula>
@@ -1354,13 +1229,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryant Mayers"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1375,13 +1248,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Martín Navas"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"204"</aula>
@@ -1394,13 +1265,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Jon Z"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1413,13 +1282,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Roberto Almarsa"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"209"</aula>
@@ -1432,13 +1299,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mouko Ensufatileli Botuteli"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"876"</aula>
@@ -1453,13 +1318,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Maria"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"36574"</aula>
@@ -1472,13 +1335,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Elena Ruiz Díaz"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"303"</aula>
@@ -1491,13 +1352,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Alvaro Diaz"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"107"</aula>
@@ -1512,13 +1371,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Lamine Yamal Mohamed"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"907"</aula>
@@ -1533,13 +1390,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Lionel Ronaldo Jr"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"312"</aula>
@@ -1554,13 +1409,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Maria becerra"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1575,13 +1428,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Agustín Nu�&plusmn;ez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"204"</aula>
@@ -1596,13 +1447,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pep Haland De Bruyne"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"40128"</aula>
@@ -1617,13 +1466,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan Carlos Ramos"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"420"</aula>
@@ -1636,13 +1483,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Nicky Jam"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1657,13 +1502,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Ronaldinho Do Santos"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"110"</aula>
@@ -1676,13 +1519,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mohamed Ali Sukongo"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"666"</aula>
@@ -1697,13 +1538,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pedro Peligro"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1716,13 +1555,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Fernando Torres Torres"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"200"</aula>
@@ -1735,13 +1572,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Laura Melendi Londra"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"77"</aula>
@@ -1756,13 +1591,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristian"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1777,13 +1610,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marc Martínez"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"202"</aula>
@@ -1796,13 +1627,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marta Ortega Castillo"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"111"</aula>
@@ -1815,13 +1644,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mark"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1834,13 +1661,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bukele Ansu Fati"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"340"</aula>
@@ -1855,13 +1680,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Uvuvwevwevwe Onyetenyevwe Ugwemubwem Ossas"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"201"</aula>
@@ -1874,13 +1697,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pablo Iglesias Abascal"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"666"</aula>
@@ -1895,13 +1716,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"bryan.aguilera.7e6@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Duki"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"106"</aula>
@@ -1914,13 +1733,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Nicolás Soto Aguirre"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"401"</aula>
@@ -1935,13 +1752,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Russel Putin Alfrega"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"555"</aula>
@@ -1956,13 +1771,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"javier.vericat.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Helinge Bolukeke Han"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"888"</aula>
@@ -1977,13 +1790,11 @@
     </incidencia>
     <incidencia>
 
-
 		<usuario>
 	        <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Miguel Torres Castro"</nombre>
 		</usuario>
-
 
 		<problema>
 	        <aula>"309"</aula>
