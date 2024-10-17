@@ -31,8 +31,7 @@ try:
         descripcion = problema.find('descripción').text.strip().replace('"', '') if problema.find(
             'descripción') is not None else 'No disponible'
         urgencia = problema.find('urgencia').text.strip().replace('"', '')
-        propuesta = problema.find('propuesta').text.strip().replace('"', '') if problema.find(
-            'propuesta') is not None else 'No disponible'
+        propuesta = problema.find('propuesta').text.strip().replace('"', '') if problema.find('propuesta') is not None else 'No disponible'
 
 
 #Imprimos toda la informacion
