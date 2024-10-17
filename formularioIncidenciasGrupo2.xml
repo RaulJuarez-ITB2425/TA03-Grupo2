@@ -88,7 +88,7 @@
 	        <fecha>"9/3/2024"</fecha>
 	        <id>"23145"</id>
 	        <tipoP>"Problemas de Conectividad"</tipoP>
-	        <descripción>"El cable HDMI se ve roto y funciona por peque�&plusmn;os momentos"</descripción>
+	        <descripción>"El cable HDMI se ve roto y funciona por pequeños momentos"</descripción>
 	        <urgencia>"9"</urgencia>
 	        <propuesta>"Cambiar el cable"</propuesta>
 		</problema>
@@ -128,6 +128,8 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"Cada vez que abro el programa Pycharm se cierra automáticamente."</descripción>
 	        <urgencia>"7"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -164,6 +166,8 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"No se iniciar distintos programas al iniciar sesión con mi cuenta del instituto."</descripción>
 	        <urgencia>"8"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -200,6 +204,9 @@
 	        <tipoP>"Incidencias de Seguridad"</tipoP>
 	        <descripción>"No se bloquea correctamente la carpeta de mi dispositivo"</descripción>
 	        <urgencia>"8"</urgencia>
+            <propuesta></propuesta>
+        </problema>
+                    
 
     </incidencia>
     <incidencia>
@@ -388,13 +395,15 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"Mi sistema no se conecta a la red del centro"</descripción>
 	        <urgencia>"9"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
 
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
-	        <nombre>"Victor Casta�&plusmn;eda"</nombre>
+	        <nombre>"Victor Castañeda"</nombre>
 		</usuario>
 
 		<problema>
@@ -404,7 +413,9 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"No inicia correctamente la máquina virtual."</descripción>
 	        <urgencia>"8"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -420,7 +431,9 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"El monitor no enciende."</descripción>
 	        <urgencia>"6"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -436,9 +449,8 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"Google Chrome se cierra inesperadamente"</descripción>
 	        <urgencia>"3"</urgencia>
-	        L="https://drive.google.com/u/0/open?usp=forms_web&amp;i<nombre>15-oBT2z0cHr-JWmGmK0hXmzADccIQoup"</nombre>
-		</usuario>
-
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -455,7 +467,9 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"No se ejecutan los programas"</descripción>
 	        <urgencia>"8"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -489,7 +503,9 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"Algunas teclas a veces no funcionan."</descripción>
 	        <urgencia>"7"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -541,7 +557,9 @@
 	        <tipoP>"Desgaste y Mantenimiento"</tipoP>
 	        <descripción>"Algunas de las teclas del teclado se quedan atascadas."</descripción>
 	        <urgencia>"6"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -689,7 +707,9 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"No inicia el ubuntu"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -706,7 +726,9 @@
 	        <tipoP>"Fallo de Hardware"</tipoP>
 	        <descripción>"Ordenador no enciende"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -742,7 +764,9 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"No funciona el raton"</descripción>
 	        <urgencia>"9"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -778,7 +802,9 @@
 	        <tipoP>"Problemas de Alimentación"</tipoP>
 	        <descripción>"Se apaga el ordenador al momento de exigirle un poco"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -795,7 +821,9 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"No funcionan ciertos programas"</descripción>
 	        <urgencia>"8"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -810,9 +838,11 @@
 	        <fecha>"10/5/2024"</fecha>
 	        <id>"78945"</id>
 	        <tipoP>"Incidencias de Seguridad"</tipoP>
-	        <descripción>"No me deja ingresar mi contrase�&plusmn;a en mi usuario"</descripción>
+	        <descripción>"No me deja ingresar mi contraseña en mi usuario"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -846,9 +876,11 @@
 	        <fecha>"8/5/2024"</fecha>
 	        <id>"78564"</id>
 	        <tipoP>"Incidencias de Seguridad"</tipoP>
-	        <descripción>"El usuario sjo me pide contrase�&plusmn;a"</descripción>
+	        <descripción>"El usuario sjo me pide contraseña"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -865,7 +897,9 @@
 	        <tipoP>"Problemas de Configuración"</tipoP>
 	        <descripción>"No se guardan ciertos ajustes del sistema"</descripción>
 	        <urgencia>"9"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -882,7 +916,9 @@
 	        <tipoP>"Incidencias de Seguridad"</tipoP>
 	        <descripción>"El antivirus detecta un malware."</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -899,7 +935,9 @@
 	        <tipoP>"Problemas de Configuración"</tipoP>
 	        <descripción>"No tengo internet"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -916,7 +954,9 @@
 	        <tipoP>"Problemas de Software Educativo"</tipoP>
 	        <descripción>"No me carga el classrom"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -933,7 +973,9 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"No se conecta a Internet"</descripción>
 	        <urgencia>"9"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -969,7 +1011,9 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"El cable HDMI esta verde"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -986,7 +1030,9 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"La impresora no responde."</descripción>
 	        <urgencia>"4"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1041,7 +1087,9 @@
 	        <tipoP>"Problemas de Software Educativo"</tipoP>
 	        <descripción>"No me carga la pagina del instituto"</descripción>
 	        <urgencia>"4"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1077,7 +1125,7 @@
 	        <tipoP>"Problemas de Configuración"</tipoP>
 	        <descripción>"No puedo acceder a mi cuenta."</descripción>
 	        <urgencia>"8"</urgencia>
-	        <propuesta>"Solicitar un restablecimiento de contrase�&plusmn;a."</propuesta>
+	        <propuesta>"Solicitar un restablecimiento de contraseña."</propuesta>
 		</problema>
 
     </incidencia>
@@ -1134,7 +1182,9 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"La aplicación tarda mucho en cargar."</descripción>
 	        <urgencia>"2"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1151,7 +1201,7 @@
 	        <tipoP>"Fallo de Hardware"</tipoP>
 	        <descripción>"El ordenador solo tiene 2 GB de memoria Ram y funciona super lento"</descripción>
 	        <urgencia>"10"</urgencia>
-	        <propuesta>"A�&plusmn;adirle mas ram"</propuesta>
+	        <propuesta>"Añadirle mas ram"</propuesta>
 		</problema>
 
     </incidencia>
@@ -1170,7 +1220,9 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"No se conecta a Internet"</descripción>
 	        <urgencia>"8"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1206,7 +1258,9 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"El monitor se apaga solo"</descripción>
 	        <urgencia>"8"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1261,7 +1315,9 @@
 	        <tipoP>"Fallo de Hardware"</tipoP>
 	        <descripción>"Mucho ruido de la torre"</descripción>
 	        <urgencia>"8"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1278,7 +1334,9 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"No Funcionan los altavoces"</descripción>
 	        <urgencia>"2"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1295,7 +1353,9 @@
 	        <tipoP>"Problemas de Alimentación"</tipoP>
 	        <descripción>"No incia el equipo"</descripción>
 	        <urgencia>"9"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1312,7 +1372,7 @@
 	        <tipoP>"Problemas de Configuración"</tipoP>
 	        <descripción>"El ubuntu esta bloqueado"</descripción>
 	        <urgencia>"7"</urgencia>
-	        <propuesta>"Poner la contrase�&plusmn;a de seguridad"</propuesta>
+	        <propuesta>"Poner la contraseña de seguridad"</propuesta>
 		</problema>
 
     </incidencia>
@@ -1331,7 +1391,9 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"No me deja conectar ningún disco duro externo al ordenador"</descripción>
 	        <urgencia>"10"</urgencia>
-
+            <propuesta></propuesta>
+        </problema>
+        
     </incidencia>
     <incidencia>
 
@@ -1431,7 +1493,7 @@
 		<usuario>
 	        <mail>"bryan.castro.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
-	        <nombre>"Agustín Nu�&plusmn;ez"</nombre>
+	        <nombre>"Agustín Nuñez"</nombre>
 		</usuario>
 
 		<problema>
