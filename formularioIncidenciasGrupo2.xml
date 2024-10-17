@@ -401,7 +401,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Victor Castañeda"</nombre>
 		</usuario>
@@ -419,7 +420,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Raúl Juárez Ortega"</nombre>
 		</usuario>
@@ -437,7 +439,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Agustín Martos Ferrer"</nombre>
 		</usuario>
@@ -455,7 +458,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristian Villa"</nombre>
 		</usuario>
@@ -473,7 +477,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Teresa Martínez"</nombre>
 		</usuario>
@@ -491,7 +496,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Andrés Suárez"</nombre>
 		</usuario>
@@ -509,7 +515,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Isaac Ardid Farré"</nombre>
 		</usuario>
@@ -527,7 +534,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Manolo Lama Ortega"</nombre>
 		</usuario>
@@ -545,7 +553,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Roman García"</nombre>
 		</usuario>
@@ -563,7 +572,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"anuard"</nombre>
 		</usuario>
@@ -581,7 +591,8 @@
     </incidencia>
     <incidencia>
 
-
+        <usuario>
+            <mail>"raul.juarez.7e8@itb.cat"</mail>
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marc Marquez Loma"</nombre>
 		</usuario>
@@ -1410,6 +1421,8 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"La conexión a internet se corta frecuentemente."</descripción>
 	        <urgencia>"9"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1541,6 +1554,8 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"No se escucha nada en el ordenador."</descripción>
 	        <urgencia>"7"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1577,6 +1592,8 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"No se conecta a la red"</descripción>
 	        <urgencia>"9"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1613,6 +1630,8 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"No funciona el mouse"</descripción>
 	        <urgencia>"5"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1630,6 +1649,8 @@
 	        <tipoP>"Fallo de Software"</tipoP>
 	        <descripción>"No puedo instalar Visual Studio"</descripción>
 	        <urgencia>"4"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1685,6 +1706,8 @@
 	        <tipoP>"Fallo de Hardware"</tipoP>
 	        <descripción>"Faltan componentes en el equipo"</descripción>
 	        <urgencia>"10"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1702,6 +1725,8 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"Mis archivos no se sincronizan en la nube."</descripción>
 	        <urgencia>"3"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1719,6 +1744,8 @@
 	        <tipoP>"Problemas de Conectividad"</tipoP>
 	        <descripción>"No funcionan los puertos USB de mi ordenador"</descripción>
 	        <urgencia>"9"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1755,6 +1782,8 @@
 	        <tipoP>"Problemas de Periféricos"</tipoP>
 	        <descripción>"No funciona el botón izquierdo del ratón"</descripción>
 	        <urgencia>"8"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1791,6 +1820,8 @@
 	        <tipoP>"Problemas de Configuración"</tipoP>
 	        <descripción>"Me inicia el Windows en vez de en sistema operativo Windows"</descripción>
 	        <urgencia>"5"</urgencia>
+            <propuesta></propuesta>
+        </problema>
 
     </incidencia>
     <incidencia>
@@ -1867,9 +1898,6 @@
 	        <urgencia>"me aparece un pantallazo azul y se apaga el pc"</urgencia>
 	        <propuesta>"10"</propuesta>
 		</problema>
-	        M="https://drive.google.com/u/0/open?usp=forms_web&amp;i<nombre>1xXVe5h0Be5yWQ1XG1wnAhVZe-qmE9dET"</nombre>
-		</usuario>
-
 
     </incidencia>
 </incidencias>
