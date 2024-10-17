@@ -7,13 +7,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Aguilera"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"9/2/2024"</fecha>
-        <id>"16417"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"Me falla el disco y no puedo iniciar el ordenador"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Cambiar el disco duro"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"9/2/2024"</fecha>
+	        <id>"16417"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"Me falla el disco y no puedo iniciar el ordenador"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Cambiar el disco duro"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -24,13 +28,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Aguilera"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"9/3/2024"</fecha>
-        <id>"12345"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No me inicia el chrome"</descripción>
-        <urgencia>"3"</urgencia>
-        <propuesta>"Actualizar el sistema para ver si se solucióna"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"9/3/2024"</fecha>
+	        <id>"12345"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No me inicia el chrome"</descripción>
+	        <urgencia>"3"</urgencia>
+	        <propuesta>"Actualizar el sistema para ver si se solucióna"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -41,13 +49,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Castro"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"10/3/2024"</fecha>
-        <id>"72813"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No se muestra la imagen correctamente."</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Cambiar los cables o el propio monitor"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"10/3/2024"</fecha>
+	        <id>"72813"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No se muestra la imagen correctamente."</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Cambiar los cables o el propio monitor"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -58,13 +70,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Javier Vericat"</nombre>
 		</usuario>
-        <aula>"Aula 101"</aula>
-        <fecha>"10/3/2024"</fecha>
-        <id>"12345"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"El ordenador no enciende y presenta un sonido de pitidos al intentar iniciar."</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Revisar la fuente de alimentación y el hardware interno."</propuesta>
+
+
+		<problema>
+	        <aula>"Aula 101"</aula>
+	        <fecha>"10/3/2024"</fecha>
+	        <id>"12345"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"El ordenador no enciende y presenta un sonido de pitidos al intentar iniciar."</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Revisar la fuente de alimentación y el hardware interno."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -75,13 +91,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Nieto"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"9/3/2024"</fecha>
-        <id>"23145"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"El cable HDMI se ve roto y funciona por peque�&plusmn;os momentos"</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Cambiar el cable"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"9/3/2024"</fecha>
+	        <id>"23145"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"El cable HDMI se ve roto y funciona por peque�&plusmn;os momentos"</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Cambiar el cable"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -92,13 +112,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Aguilera"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"8/1/2024"</fecha>
-        <id>"206"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El monitor esta roto"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Cambiar el monitor"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"8/1/2024"</fecha>
+	        <id>"206"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El monitor esta roto"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Cambiar el monitor"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -109,12 +133,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan Perez Martinez"</nombre>
 		</usuario>
-        <aula>"409"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"7890"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"Cada vez que abro el programa Pycharm se cierra automáticamente."</descripción>
-        <urgencia>"7"</urgencia>
+
+
+		<problema>
+	        <aula>"409"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"7890"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"Cada vez que abro el programa Pycharm se cierra automáticamente."</descripción>
+	        <urgencia>"7"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -125,13 +152,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Daniel Aguilera"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"5/1/2024"</fecha>
-        <id>"32654"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"Al teclado le hacen falta teclas"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Colocar las teclas que hacen falta o cambiarlo"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"5/1/2024"</fecha>
+	        <id>"32654"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"Al teclado le hacen falta teclas"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Colocar las teclas que hacen falta o cambiarlo"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -142,12 +173,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Manuel González"</nombre>
 		</usuario>
-        <aula>"301"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"99232"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No se iniciar distintos programas al iniciar sesión con mi cuenta del instituto."</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"301"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"99232"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No se iniciar distintos programas al iniciar sesión con mi cuenta del instituto."</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -158,13 +192,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan Pérez"</nombre>
 		</usuario>
-        <aula>"101"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"47689"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"La computadora no enciende."</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Revisar la fuente de alimentación."</propuesta>
+
+
+		<problema>
+	        <aula>"101"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"47689"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"La computadora no enciende."</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Revisar la fuente de alimentación."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -175,12 +213,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Gabriel Triguero"</nombre>
 		</usuario>
-        <aula>"207"</aula>
-        <fecha>"9/26/2024"</fecha>
-        <id>"23804"</id>
-        <tipoP>"Incidencias de Seguridad"</tipoP>
-        <descripción>"No se bloquea correctamente la carpeta de mi dispositivo"</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"207"</aula>
+	        <fecha>"9/26/2024"</fecha>
+	        <id>"23804"</id>
+	        <tipoP>"Incidencias de Seguridad"</tipoP>
+	        <descripción>"No se bloquea correctamente la carpeta de mi dispositivo"</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -191,13 +232,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Laura Martin Delgado"</nombre>
 		</usuario>
-        <aula>"105"</aula>
-        <fecha>"9/19/2024"</fecha>
-        <id>"7980"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"Al iniciar el sistema"</descripción>
-        <urgencia>"salta un pantallazo azul y se apaga automáticamente."</urgencia>
-        <propuesta>"10"</propuesta>
+
+
+		<problema>
+	        <aula>"105"</aula>
+	        <fecha>"9/19/2024"</fecha>
+	        <id>"7980"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"Al iniciar el sistema"</descripción>
+	        <urgencia>"salta un pantallazo azul y se apaga automáticamente."</urgencia>
+	        <propuesta>"10"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -208,13 +253,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Luis Pérez"</nombre>
 		</usuario>
-        <aula>"112"</aula>
-        <fecha>"10/3/2024"</fecha>
-        <id>"44123"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El click izquierdo del ratón no funciona correctamente."</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"Renovar los periféricos."</propuesta>
+
+
+		<problema>
+	        <aula>"112"</aula>
+	        <fecha>"10/3/2024"</fecha>
+	        <id>"44123"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El click izquierdo del ratón no funciona correctamente."</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"Renovar los periféricos."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -225,13 +274,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Ana García"</nombre>
 		</usuario>
-        <aula>"202"</aula>
-        <fecha>"10/31/2024"</fecha>
-        <id>"18769"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No se conecta a Wi-Fi."</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Reiniciar el router."</propuesta>
+
+
+		<problema>
+	        <aula>"202"</aula>
+	        <fecha>"10/31/2024"</fecha>
+	        <id>"18769"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No se conecta a Wi-Fi."</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Reiniciar el router."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -242,13 +295,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"4/1/2024"</fecha>
-        <id>"16123"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El cursor del ratón se mueve solo"</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"Limpiar el"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"4/1/2024"</fecha>
+	        <id>"16123"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El cursor del ratón se mueve solo"</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"Limpiar el"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -259,13 +316,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Luis Pérez"</nombre>
 		</usuario>
-        <aula>"103"</aula>
-        <fecha>"10/15/2024"</fecha>
-        <id>"90766"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El proyector no muestra imagen."</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Verificar conexiones."</propuesta>
+
+
+		<problema>
+	        <aula>"103"</aula>
+	        <fecha>"10/15/2024"</fecha>
+	        <id>"90766"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El proyector no muestra imagen."</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Verificar conexiones."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -276,13 +337,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"ManuelTorres"</nombre>
 		</usuario>
-        <aula>"412"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"15236"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"LaBarraEspaciadoraDeMiTecladoNoFunciona"</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"CambiarLosPeriféricosORenovarlos"</propuesta>
+
+
+		<problema>
+	        <aula>"412"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"15236"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"LaBarraEspaciadoraDeMiTecladoNoFunciona"</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"CambiarLosPeriféricosORenovarlos"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -293,13 +358,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marta López"</nombre>
 		</usuario>
-        <aula>"105"</aula>
-        <fecha>"7/1/2023"</fecha>
-        <id>"66666"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"La aplicación no se abre."</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"Reinstalar la aplicación."</propuesta>
+
+
+		<problema>
+	        <aula>"105"</aula>
+	        <fecha>"7/1/2023"</fecha>
+	        <id>"66666"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"La aplicación no se abre."</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"Reinstalar la aplicación."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -310,13 +379,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"bryan daniel"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"5/3/2024"</fecha>
-        <id>"16123"</id>
-        <tipoP>"Problemas de Alimentación"</tipoP>
-        <descripción>"no enciende el pc"</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"nose"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"5/3/2024"</fecha>
+	        <id>"16123"</id>
+	        <tipoP>"Problemas de Alimentación"</tipoP>
+	        <descripción>"no enciende el pc"</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"nose"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -327,13 +400,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Carlos Ruiz"</nombre>
 		</usuario>
-        <aula>"104"</aula>
-        <fecha>"11/1/2024"</fecha>
-        <id>"77865"</id>
-        <tipoP>"Problemas de Alimentación"</tipoP>
-        <descripción>"El PC no enciende."</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Comprobar el cable de alimentación."</propuesta>
+
+
+		<problema>
+	        <aula>"104"</aula>
+	        <fecha>"11/1/2024"</fecha>
+	        <id>"77865"</id>
+	        <tipoP>"Problemas de Alimentación"</tipoP>
+	        <descripción>"El PC no enciende."</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Comprobar el cable de alimentación."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -344,12 +421,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Arnau Díaz"</nombre>
 		</usuario>
-        <aula>"27"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"66273"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"Mi sistema no se conecta a la red del centro"</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"27"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"66273"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"Mi sistema no se conecta a la red del centro"</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -358,12 +438,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Victor Casta�&plusmn;eda"</nombre>
 		</usuario>
-        <aula>"116"</aula>
-        <fecha>"9/23/2024"</fecha>
-        <id>"25390"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No inicia correctamente la máquina virtual."</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"116"</aula>
+	        <fecha>"9/23/2024"</fecha>
+	        <id>"25390"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No inicia correctamente la máquina virtual."</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -372,12 +455,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Raúl Juárez Ortega"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"9/11/2024"</fecha>
-        <id>"546"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El monitor no enciende."</descripción>
-        <urgencia>"6"</urgencia>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"9/11/2024"</fecha>
+	        <id>"546"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El monitor no enciende."</descripción>
+	        <urgencia>"6"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -386,14 +472,18 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Agustín Martos Ferrer"</nombre>
 		</usuario>
-        <aula>"105"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"9666"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"Google Chrome se cierra inesperadamente"</descripción>
-        <urgencia>"3"</urgencia>
+
+
+		<problema>
+	        <aula>"105"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"9666"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"Google Chrome se cierra inesperadamente"</descripción>
+	        <urgencia>"3"</urgencia>
 	        L="https://drive.google.com/u/0/open?usp=forms_web&amp;i<nombre>15-oBT2z0cHr-JWmGmK0hXmzADccIQoup"</nombre>
 		</usuario>
+
 
     </incidencia>
     <incidencia>
@@ -402,12 +492,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristian Villa"</nombre>
 		</usuario>
-        <aula>"344"</aula>
-        <fecha>"9/25/2024"</fecha>
-        <id>"46151"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No se ejecutan los programas"</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"344"</aula>
+	        <fecha>"9/25/2024"</fecha>
+	        <id>"46151"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No se ejecutan los programas"</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -416,13 +509,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Teresa Martínez"</nombre>
 		</usuario>
-        <aula>"333"</aula>
-        <fecha>"5/1/2024"</fecha>
-        <id>"90675"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"esta de color rosa"</descripción>
-        <urgencia>"4"</urgencia>
-        <propuesta>"resetear de fabrica"</propuesta>
+
+
+		<problema>
+	        <aula>"333"</aula>
+	        <fecha>"5/1/2024"</fecha>
+	        <id>"90675"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"esta de color rosa"</descripción>
+	        <urgencia>"4"</urgencia>
+	        <propuesta>"resetear de fabrica"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -431,12 +528,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Andrés Suárez"</nombre>
 		</usuario>
-        <aula>"205"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"41578"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"Algunas teclas a veces no funcionan."</descripción>
-        <urgencia>"7"</urgencia>
+
+
+		<problema>
+	        <aula>"205"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"41578"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"Algunas teclas a veces no funcionan."</descripción>
+	        <urgencia>"7"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -445,13 +545,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Isaac Ardid Farré"</nombre>
 		</usuario>
-        <aula>"109"</aula>
-        <fecha>"10/4/2024"</fecha>
-        <id>"15645"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El mouse ha dejado de funcionar"</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"Cambiar el mouse"</propuesta>
+
+
+		<problema>
+	        <aula>"109"</aula>
+	        <fecha>"10/4/2024"</fecha>
+	        <id>"15645"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El mouse ha dejado de funcionar"</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"Cambiar el mouse"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -460,13 +564,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Manolo Lama Ortega"</nombre>
 		</usuario>
-        <aula>"555"</aula>
-        <fecha>"6/4/2021"</fecha>
-        <id>"12346"</id>
-        <tipoP>"Problemas de Software Educativo"</tipoP>
-        <descripción>"no funciona el students"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"hacer reset del cache"</propuesta>
+
+
+		<problema>
+	        <aula>"555"</aula>
+	        <fecha>"6/4/2021"</fecha>
+	        <id>"12346"</id>
+	        <tipoP>"Problemas de Software Educativo"</tipoP>
+	        <descripción>"no funciona el students"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"hacer reset del cache"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -475,12 +583,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Roman García"</nombre>
 		</usuario>
-        <aula>"114"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"79112"</id>
-        <tipoP>"Desgaste y Mantenimiento"</tipoP>
-        <descripción>"Algunas de las teclas del teclado se quedan atascadas."</descripción>
-        <urgencia>"6"</urgencia>
+
+
+		<problema>
+	        <aula>"114"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"79112"</id>
+	        <tipoP>"Desgaste y Mantenimiento"</tipoP>
+	        <descripción>"Algunas de las teclas del teclado se quedan atascadas."</descripción>
+	        <urgencia>"6"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -489,13 +600,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"anuard"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"3/5/2024"</fecha>
-        <id>"13564"</id>
-        <tipoP>"Problemas de Alimentación"</tipoP>
-        <descripción>"no funciona el pc"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"cambiar la fuente de poder"</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"3/5/2024"</fecha>
+	        <id>"13564"</id>
+	        <tipoP>"Problemas de Alimentación"</tipoP>
+	        <descripción>"no funciona el pc"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"cambiar la fuente de poder"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -504,13 +619,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marc Marquez Loma"</nombre>
 		</usuario>
-        <aula>"78"</aula>
-        <fecha>"11/29/2024"</fecha>
-        <id>"67539"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El teclado esta mordido"</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"Cambiar el teclado"</propuesta>
+
+
+		<problema>
+	        <aula>"78"</aula>
+	        <fecha>"11/29/2024"</fecha>
+	        <id>"67539"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El teclado esta mordido"</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"Cambiar el teclado"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -521,13 +640,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristobal Barrera"</nombre>
 		</usuario>
-        <aula>"207"</aula>
-        <fecha>"10/3/2024"</fecha>
-        <id>"59909"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No inicia la VM"</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Actualizar el programa o darle un mantenimiento"</propuesta>
+
+
+		<problema>
+	        <aula>"207"</aula>
+	        <fecha>"10/3/2024"</fecha>
+	        <id>"59909"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No inicia la VM"</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Actualizar el programa o darle un mantenimiento"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -538,13 +661,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan pepito"</nombre>
 		</usuario>
-        <aula>"105"</aula>
-        <fecha>"5/3/2024"</fecha>
-        <id>"65845"</id>
-        <tipoP>"Desgaste y Mantenimiento"</tipoP>
-        <descripción>"El ordenador esta demasiado viejo y desgastado"</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Cambiar el ordenador"</propuesta>
+
+
+		<problema>
+	        <aula>"105"</aula>
+	        <fecha>"5/3/2024"</fecha>
+	        <id>"65845"</id>
+	        <tipoP>"Desgaste y Mantenimiento"</tipoP>
+	        <descripción>"El ordenador esta demasiado viejo y desgastado"</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Cambiar el ordenador"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -555,13 +682,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pepito"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"2/3/2020"</fecha>
-        <id>"12456"</id>
-        <tipoP>"Incidencias de Seguridad"</tipoP>
-        <descripción>"Los ordenadores tienen una vulnerabilidad para conseguir permisos de administradores"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Parchear esta vulnerabilidad"</propuesta>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"2/3/2020"</fecha>
+	        <id>"12456"</id>
+	        <tipoP>"Incidencias de Seguridad"</tipoP>
+	        <descripción>"Los ordenadores tienen una vulnerabilidad para conseguir permisos de administradores"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Parchear esta vulnerabilidad"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -572,13 +703,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Manel Álvarez"</nombre>
 		</usuario>
-        <aula>"301"</aula>
-        <fecha>"9/26/2024"</fecha>
-        <id>"85386"</id>
-        <tipoP>"Problemas de Alimentación"</tipoP>
-        <descripción>"Se apaga el equipo constantemente."</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Mantenimiento"</propuesta>
+
+
+		<problema>
+	        <aula>"301"</aula>
+	        <fecha>"9/26/2024"</fecha>
+	        <id>"85386"</id>
+	        <tipoP>"Problemas de Alimentación"</tipoP>
+	        <descripción>"Se apaga el equipo constantemente."</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Mantenimiento"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -589,13 +724,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"l90675"</nombre>
 		</usuario>
-        <aula>"9o0675"</aula>
-        <fecha>"10/17/2024"</fecha>
-        <id>"88888"</id>
-        <tipoP>"Desgaste y Mantenimiento"</tipoP>
-        <descripción>"El ordenador esta muy sucio"</descripción>
-        <urgencia>"5"</urgencia>
-        <propuesta>"limpiarlo"</propuesta>
+
+
+		<problema>
+	        <aula>"9o0675"</aula>
+	        <fecha>"10/17/2024"</fecha>
+	        <id>"88888"</id>
+	        <tipoP>"Desgaste y Mantenimiento"</tipoP>
+	        <descripción>"El ordenador esta muy sucio"</descripción>
+	        <urgencia>"5"</urgencia>
+	        <propuesta>"limpiarlo"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -606,12 +745,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mateo Palacios"</nombre>
 		</usuario>
-        <aula>"504"</aula>
-        <fecha>"12/3/2023"</fecha>
-        <id>"32654"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No inicia el ubuntu"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"504"</aula>
+	        <fecha>"12/3/2023"</fecha>
+	        <id>"32654"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No inicia el ubuntu"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -622,12 +764,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"David Moles Castro"</nombre>
 		</usuario>
-        <aula>"303"</aula>
-        <fecha>"10/3/2024"</fecha>
-        <id>"10002"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"Ordenador no enciende"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"303"</aula>
+	        <fecha>"10/3/2024"</fecha>
+	        <id>"10002"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"Ordenador no enciende"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -638,13 +783,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Victor Jiménez"</nombre>
 		</usuario>
-        <aula>"105"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"1319"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No funciona el click derecho del ratón"</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Cambiarlo"</propuesta>
+
+
+		<problema>
+	        <aula>"105"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"1319"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No funciona el click derecho del ratón"</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Cambiarlo"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -655,12 +804,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Salome"</nombre>
 		</usuario>
-        <aula>"205"</aula>
-        <fecha>"2/3/2024"</fecha>
-        <id>"36548"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No funciona el raton"</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"205"</aula>
+	        <fecha>"2/3/2024"</fecha>
+	        <id>"36548"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No funciona el raton"</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -671,13 +823,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Castro Roman Perez"</nombre>
 		</usuario>
-        <aula>"91"</aula>
-        <fecha>"6/22/2022"</fecha>
-        <id>"10001"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"La grafica no funciona"</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Cambiar la grafica"</propuesta>
+
+
+		<problema>
+	        <aula>"91"</aula>
+	        <fecha>"6/22/2022"</fecha>
+	        <id>"10001"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"La grafica no funciona"</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Cambiar la grafica"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -688,12 +844,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Paula"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"8/5/2024"</fecha>
-        <id>"32756"</id>
-        <tipoP>"Problemas de Alimentación"</tipoP>
-        <descripción>"Se apaga el ordenador al momento de exigirle un poco"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"8/5/2024"</fecha>
+	        <id>"32756"</id>
+	        <tipoP>"Problemas de Alimentación"</tipoP>
+	        <descripción>"Se apaga el ordenador al momento de exigirle un poco"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -704,12 +863,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryan Castro"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"85477"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No funcionan ciertos programas"</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"85477"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No funcionan ciertos programas"</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -720,12 +882,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Salomon"</nombre>
 		</usuario>
-        <aula>"208"</aula>
-        <fecha>"10/5/2024"</fecha>
-        <id>"78945"</id>
-        <tipoP>"Incidencias de Seguridad"</tipoP>
-        <descripción>"No me deja ingresar mi contrase�&plusmn;a en mi usuario"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"208"</aula>
+	        <fecha>"10/5/2024"</fecha>
+	        <id>"78945"</id>
+	        <tipoP>"Incidencias de Seguridad"</tipoP>
+	        <descripción>"No me deja ingresar mi contrase�&plusmn;a en mi usuario"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -736,13 +901,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Laura García Pérez"</nombre>
 		</usuario>
-        <aula>"101"</aula>
-        <fecha>"9/20/2024"</fecha>
-        <id>"89"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No se puede conectar a la red."</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Reiniciar el router."</propuesta>
+
+
+		<problema>
+	        <aula>"101"</aula>
+	        <fecha>"9/20/2024"</fecha>
+	        <id>"89"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No se puede conectar a la red."</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Reiniciar el router."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -753,12 +922,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"David"</nombre>
 		</usuario>
-        <aula>"856"</aula>
-        <fecha>"8/5/2024"</fecha>
-        <id>"78564"</id>
-        <tipoP>"Incidencias de Seguridad"</tipoP>
-        <descripción>"El usuario sjo me pide contrase�&plusmn;a"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"856"</aula>
+	        <fecha>"8/5/2024"</fecha>
+	        <id>"78564"</id>
+	        <tipoP>"Incidencias de Seguridad"</tipoP>
+	        <descripción>"El usuario sjo me pide contrase�&plusmn;a"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -769,12 +941,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Guillermo Casas"</nombre>
 		</usuario>
-        <aula>"211"</aula>
-        <fecha>"10/3/2024"</fecha>
-        <id>"81002"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"No se guardan ciertos ajustes del sistema"</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"211"</aula>
+	        <fecha>"10/3/2024"</fecha>
+	        <id>"81002"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"No se guardan ciertos ajustes del sistema"</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -785,12 +960,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Ana Rodríguez Sánchez"</nombre>
 		</usuario>
-        <aula>"209"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"40500"</id>
-        <tipoP>"Incidencias de Seguridad"</tipoP>
-        <descripción>"El antivirus detecta un malware."</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"209"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"40500"</id>
+	        <tipoP>"Incidencias de Seguridad"</tipoP>
+	        <descripción>"El antivirus detecta un malware."</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -801,12 +979,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Diana"</nombre>
 		</usuario>
-        <aula>"208"</aula>
-        <fecha>"8/6/2024"</fecha>
-        <id>"69854"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"No tengo internet"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"208"</aula>
+	        <fecha>"8/6/2024"</fecha>
+	        <id>"69854"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"No tengo internet"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -817,12 +998,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Paola"</nombre>
 		</usuario>
-        <aula>"201"</aula>
-        <fecha>"2/3/2024"</fecha>
-        <id>"46582"</id>
-        <tipoP>"Problemas de Software Educativo"</tipoP>
-        <descripción>"No me carga el classrom"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"201"</aula>
+	        <fecha>"2/3/2024"</fecha>
+	        <id>"46582"</id>
+	        <tipoP>"Problemas de Software Educativo"</tipoP>
+	        <descripción>"No me carga el classrom"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -833,12 +1017,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Kiko Montero"</nombre>
 		</usuario>
-        <aula>"215"</aula>
-        <fecha>"9/25/2024"</fecha>
-        <id>"44173"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No se conecta a Internet"</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"215"</aula>
+	        <fecha>"9/25/2024"</fecha>
+	        <id>"44173"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No se conecta a Internet"</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -849,13 +1036,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Carlos Fernández Gómez"</nombre>
 		</usuario>
-        <aula>"206"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"50061"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"La pantalla se queda en negro al encender."</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Comprobar las conexiones del monitor."</propuesta>
+
+
+		<problema>
+	        <aula>"206"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"50061"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"La pantalla se queda en negro al encender."</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Comprobar las conexiones del monitor."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -866,12 +1057,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Andrea"</nombre>
 		</usuario>
-        <aula>"504"</aula>
-        <fecha>"1/3/2024"</fecha>
-        <id>"65987"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"El cable HDMI esta verde"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"504"</aula>
+	        <fecha>"1/3/2024"</fecha>
+	        <id>"65987"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"El cable HDMI esta verde"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -882,12 +1076,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"María López Torres"</nombre>
 		</usuario>
-        <aula>"205"</aula>
-        <fecha>"9/30/2024"</fecha>
-        <id>"33056"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"La impresora no responde."</descripción>
-        <urgencia>"4"</urgencia>
+
+
+		<problema>
+	        <aula>"205"</aula>
+	        <fecha>"9/30/2024"</fecha>
+	        <id>"33056"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"La impresora no responde."</descripción>
+	        <urgencia>"4"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -898,13 +1095,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Izan Romero Guil"</nombre>
 		</usuario>
-        <aula>"666"</aula>
-        <fecha>"5/17/2024"</fecha>
-        <id>"45687"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No va el internet"</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Cambiar el router"</propuesta>
+
+
+		<problema>
+	        <aula>"666"</aula>
+	        <fecha>"5/17/2024"</fecha>
+	        <id>"45687"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No va el internet"</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Cambiar el router"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -915,13 +1116,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Gerard Ribes"</nombre>
 		</usuario>
-        <aula>"114"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"49083"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El sensor del ratón no funciona correctamente"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Cambiar el ratón"</propuesta>
+
+
+		<problema>
+	        <aula>"114"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"49083"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El sensor del ratón no funciona correctamente"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Cambiar el ratón"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -932,12 +1137,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Trueno"</nombre>
 		</usuario>
-        <aula>"205"</aula>
-        <fecha>"2/3/2024"</fecha>
-        <id>"488965"</id>
-        <tipoP>"Problemas de Software Educativo"</tipoP>
-        <descripción>"No me carga la pagina del instituto"</descripción>
-        <urgencia>"4"</urgencia>
+
+
+		<problema>
+	        <aula>"205"</aula>
+	        <fecha>"2/3/2024"</fecha>
+	        <id>"488965"</id>
+	        <tipoP>"Problemas de Software Educativo"</tipoP>
+	        <descripción>"No me carga la pagina del instituto"</descripción>
+	        <urgencia>"4"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -948,13 +1156,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristal"</nombre>
 		</usuario>
-        <aula>"107"</aula>
-        <fecha>"5/3/2024"</fecha>
-        <id>"49756"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No funciona el teclado"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Cambiar el teclado"</propuesta>
+
+
+		<problema>
+	        <aula>"107"</aula>
+	        <fecha>"5/3/2024"</fecha>
+	        <id>"49756"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No funciona el teclado"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Cambiar el teclado"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -965,13 +1177,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pedro Sánchez Ruiz"</nombre>
 		</usuario>
-        <aula>"502"</aula>
-        <fecha>"9/27/2024"</fecha>
-        <id>"60111"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"No puedo acceder a mi cuenta."</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Solicitar un restablecimiento de contrase�&plusmn;a."</propuesta>
+
+
+		<problema>
+	        <aula>"502"</aula>
+	        <fecha>"9/27/2024"</fecha>
+	        <id>"60111"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"No puedo acceder a mi cuenta."</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Solicitar un restablecimiento de contrase�&plusmn;a."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -982,13 +1198,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pedro Fernández"</nombre>
 		</usuario>
-        <aula>"303"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"89031"</id>
-        <tipoP>"Problemas de Alimentación"</tipoP>
-        <descripción>"No enciende el ordenador"</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Mantenimiento"</propuesta>
+
+
+		<problema>
+	        <aula>"303"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"89031"</id>
+	        <tipoP>"Problemas de Alimentación"</tipoP>
+	        <descripción>"No enciende el ordenador"</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Mantenimiento"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -999,13 +1219,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Andres Iniesta Martinez"</nombre>
 		</usuario>
-        <aula>"712"</aula>
-        <fecha>"10/20/2017"</fecha>
-        <id>"58679"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"El ubuntu no funciona"</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Restaurar el equipo de fabrica"</propuesta>
+
+
+		<problema>
+	        <aula>"712"</aula>
+	        <fecha>"10/20/2017"</fecha>
+	        <id>"58679"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"El ubuntu no funciona"</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Restaurar el equipo de fabrica"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1016,12 +1240,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Sofía Jiménez Martín"</nombre>
 		</usuario>
-        <aula>"110"</aula>
-        <fecha>"9/25/2024"</fecha>
-        <id>"12006"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"La aplicación tarda mucho en cargar."</descripción>
-        <urgencia>"2"</urgencia>
+
+
+		<problema>
+	        <aula>"110"</aula>
+	        <fecha>"9/25/2024"</fecha>
+	        <id>"12006"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"La aplicación tarda mucho en cargar."</descripción>
+	        <urgencia>"2"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1032,13 +1259,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Samuel"</nombre>
 		</usuario>
-        <aula>"207"</aula>
-        <fecha>"1/9/2024"</fecha>
-        <id>"79864"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"El ordenador solo tiene 2 GB de memoria Ram y funciona super lento"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"A�&plusmn;adirle mas ram"</propuesta>
+
+
+		<problema>
+	        <aula>"207"</aula>
+	        <fecha>"1/9/2024"</fecha>
+	        <id>"79864"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"El ordenador solo tiene 2 GB de memoria Ram y funciona super lento"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"A�&plusmn;adirle mas ram"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1049,12 +1280,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Miguel Lozano"</nombre>
 		</usuario>
-        <aula>"201"</aula>
-        <fecha>"9/30/2024"</fecha>
-        <id>"57316"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No se conecta a Internet"</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"201"</aula>
+	        <fecha>"9/30/2024"</fecha>
+	        <id>"57316"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No se conecta a Internet"</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1065,13 +1299,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Lionel Andres Messi"</nombre>
 		</usuario>
-        <aula>"10"</aula>
-        <fecha>"10/23/2025"</fecha>
-        <id>"90687"</id>
-        <tipoP>"Incidencias de Seguridad"</tipoP>
-        <descripción>"Han Hackeado el ordenador"</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Reinstalar el ubuntu"</propuesta>
+
+
+		<problema>
+	        <aula>"10"</aula>
+	        <fecha>"10/23/2025"</fecha>
+	        <id>"90687"</id>
+	        <tipoP>"Incidencias de Seguridad"</tipoP>
+	        <descripción>"Han Hackeado el ordenador"</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Reinstalar el ubuntu"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1082,12 +1320,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juancarlos"</nombre>
 		</usuario>
-        <aula>"209"</aula>
-        <fecha>"5/8/2024"</fecha>
-        <id>"35768"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El monitor se apaga solo"</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"209"</aula>
+	        <fecha>"5/8/2024"</fecha>
+	        <id>"35768"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El monitor se apaga solo"</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1098,13 +1339,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Dominic Toretto Brasas"</nombre>
 		</usuario>
-        <aula>"456"</aula>
-        <fecha>"2/15/2024"</fecha>
-        <id>"28796"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"El raton no funciona"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Cambiar el raton"</propuesta>
+
+
+		<problema>
+	        <aula>"456"</aula>
+	        <fecha>"2/15/2024"</fecha>
+	        <id>"28796"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"El raton no funciona"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Cambiar el raton"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1115,13 +1360,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bryant Mayers"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"8/3/2024"</fecha>
-        <id>"46853"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No funciona el raton"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Cambiar el raton"</propuesta>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"8/3/2024"</fecha>
+	        <id>"46853"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No funciona el raton"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Cambiar el raton"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1132,12 +1381,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Martín Navas"</nombre>
 		</usuario>
-        <aula>"204"</aula>
-        <fecha>"9/24/2024"</fecha>
-        <id>"41729"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"Mucho ruido de la torre"</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"204"</aula>
+	        <fecha>"9/24/2024"</fecha>
+	        <id>"41729"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"Mucho ruido de la torre"</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1148,12 +1400,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Jon Z"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"10/5/2024"</fecha>
-        <id>"32645"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No Funcionan los altavoces"</descripción>
-        <urgencia>"2"</urgencia>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"10/5/2024"</fecha>
+	        <id>"32645"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No Funcionan los altavoces"</descripción>
+	        <urgencia>"2"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1164,12 +1419,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Roberto Almarsa"</nombre>
 		</usuario>
-        <aula>"209"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"78312"</id>
-        <tipoP>"Problemas de Alimentación"</tipoP>
-        <descripción>"No incia el equipo"</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"209"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"78312"</id>
+	        <tipoP>"Problemas de Alimentación"</tipoP>
+	        <descripción>"No incia el equipo"</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1180,13 +1438,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mouko Ensufatileli Botuteli"</nombre>
 		</usuario>
-        <aula>"876"</aula>
-        <fecha>"10/17/2018"</fecha>
-        <id>"43218"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"El ubuntu esta bloqueado"</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Poner la contrase�&plusmn;a de seguridad"</propuesta>
+
+
+		<problema>
+	        <aula>"876"</aula>
+	        <fecha>"10/17/2018"</fecha>
+	        <id>"43218"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"El ubuntu esta bloqueado"</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Poner la contrase�&plusmn;a de seguridad"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1197,12 +1459,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Maria"</nombre>
 		</usuario>
-        <aula>"36574"</aula>
-        <fecha>"9/5/2024"</fecha>
-        <id>"98746"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No me deja conectar ningún disco duro externo al ordenador"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"36574"</aula>
+	        <fecha>"9/5/2024"</fecha>
+	        <id>"98746"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No me deja conectar ningún disco duro externo al ordenador"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1213,12 +1478,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Elena Ruiz Díaz"</nombre>
 		</usuario>
-        <aula>"303"</aula>
-        <fecha>"9/18/2024"</fecha>
-        <id>"66054"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"La conexión a internet se corta frecuentemente."</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"303"</aula>
+	        <fecha>"9/18/2024"</fecha>
+	        <id>"66054"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"La conexión a internet se corta frecuentemente."</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1229,13 +1497,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Alvaro Diaz"</nombre>
 		</usuario>
-        <aula>"107"</aula>
-        <fecha>"10/4/2024"</fecha>
-        <id>"36251"</id>
-        <tipoP>"Desgaste y Mantenimiento"</tipoP>
-        <descripción>"Se sobre calienta el ordenador"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Limpiar los componentes del ordenador"</propuesta>
+
+
+		<problema>
+	        <aula>"107"</aula>
+	        <fecha>"10/4/2024"</fecha>
+	        <id>"36251"</id>
+	        <tipoP>"Desgaste y Mantenimiento"</tipoP>
+	        <descripción>"Se sobre calienta el ordenador"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Limpiar los componentes del ordenador"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1246,13 +1518,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Lamine Yamal Mohamed"</nombre>
 		</usuario>
-        <aula>"907"</aula>
-        <fecha>"8/4/2023"</fecha>
-        <id>"76895"</id>
-        <tipoP>"Incidencias de Seguridad"</tipoP>
-        <descripción>"Ha entrado un virus"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Instalar un antivirus"</propuesta>
+
+
+		<problema>
+	        <aula>"907"</aula>
+	        <fecha>"8/4/2023"</fecha>
+	        <id>"76895"</id>
+	        <tipoP>"Incidencias de Seguridad"</tipoP>
+	        <descripción>"Ha entrado un virus"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Instalar un antivirus"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1263,13 +1539,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Lionel Ronaldo Jr"</nombre>
 		</usuario>
-        <aula>"312"</aula>
-        <fecha>"9/19/2024"</fecha>
-        <id>"20355"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"Algunas teclas no funcionan."</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"Limpiar el teclado."</propuesta>
+
+
+		<problema>
+	        <aula>"312"</aula>
+	        <fecha>"9/19/2024"</fecha>
+	        <id>"20355"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"Algunas teclas no funcionan."</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"Limpiar el teclado."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1280,13 +1560,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Maria becerra"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"3/5/2024"</fecha>
-        <id>"95368"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"Las teclas del teclado se quedan pegadas cuando las presionas"</descripción>
-        <urgencia>"9"</urgencia>
-        <propuesta>"Cambiar el teclado o limpiar este"</propuesta>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"3/5/2024"</fecha>
+	        <id>"95368"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"Las teclas del teclado se quedan pegadas cuando las presionas"</descripción>
+	        <urgencia>"9"</urgencia>
+	        <propuesta>"Cambiar el teclado o limpiar este"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1297,13 +1581,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Agustín Nu�&plusmn;ez"</nombre>
 		</usuario>
-        <aula>"204"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"71839"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"Con funciona la rueda del ratón"</descripción>
-        <urgencia>"7"</urgencia>
-        <propuesta>"Cambiar el ratón"</propuesta>
+
+
+		<problema>
+	        <aula>"204"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"71839"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"Con funciona la rueda del ratón"</descripción>
+	        <urgencia>"7"</urgencia>
+	        <propuesta>"Cambiar el ratón"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1314,13 +1602,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pep Haland De Bruyne"</nombre>
 		</usuario>
-        <aula>"40128"</aula>
-        <fecha>"7/4/2024"</fecha>
-        <id>"77777"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"Se han comido el cable hdmi"</descripción>
-        <urgencia>"6"</urgencia>
-        <propuesta>"Cambiar el cable"</propuesta>
+
+
+		<problema>
+	        <aula>"40128"</aula>
+	        <fecha>"7/4/2024"</fecha>
+	        <id>"77777"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"Se han comido el cable hdmi"</descripción>
+	        <urgencia>"6"</urgencia>
+	        <propuesta>"Cambiar el cable"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1331,12 +1623,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Juan Carlos Ramos"</nombre>
 		</usuario>
-        <aula>"420"</aula>
-        <fecha>"9/11/2024"</fecha>
-        <id>"22590"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No se escucha nada en el ordenador."</descripción>
-        <urgencia>"7"</urgencia>
+
+
+		<problema>
+	        <aula>"420"</aula>
+	        <fecha>"9/11/2024"</fecha>
+	        <id>"22590"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No se escucha nada en el ordenador."</descripción>
+	        <urgencia>"7"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1347,13 +1642,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Nicky Jam"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"10/9/2024"</fecha>
-        <id>"69853"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"La hora esta mal lleva dos horas adelantadas"</descripción>
-        <urgencia>"2"</urgencia>
-        <propuesta>"Cambiar la hora a la correcta"</propuesta>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"10/9/2024"</fecha>
+	        <id>"69853"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"La hora esta mal lleva dos horas adelantadas"</descripción>
+	        <urgencia>"2"</urgencia>
+	        <propuesta>"Cambiar la hora a la correcta"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1364,12 +1663,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Ronaldinho Do Santos"</nombre>
 		</usuario>
-        <aula>"110"</aula>
-        <fecha>"10/1/2024"</fecha>
-        <id>"98735"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No se conecta a la red"</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"110"</aula>
+	        <fecha>"10/1/2024"</fecha>
+	        <id>"98735"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No se conecta a la red"</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1380,13 +1682,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mohamed Ali Sukongo"</nombre>
 		</usuario>
-        <aula>"666"</aula>
-        <fecha>"11/13/2014"</fecha>
-        <id>"47567"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"Han robado una grafica"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Cambiar la grafica"</propuesta>
+
+
+		<problema>
+	        <aula>"666"</aula>
+	        <fecha>"11/13/2014"</fecha>
+	        <id>"47567"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"Han robado una grafica"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Cambiar la grafica"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1397,12 +1703,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pedro Peligro"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"10/4/2024"</fecha>
-        <id>"64853"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No funciona el mouse"</descripción>
-        <urgencia>"5"</urgencia>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"10/4/2024"</fecha>
+	        <id>"64853"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No funciona el mouse"</descripción>
+	        <urgencia>"5"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1413,12 +1722,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Fernando Torres Torres"</nombre>
 		</usuario>
-        <aula>"200"</aula>
-        <fecha>"10/4/2024"</fecha>
-        <id>"321"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No puedo instalar Visual Studio"</descripción>
-        <urgencia>"4"</urgencia>
+
+
+		<problema>
+	        <aula>"200"</aula>
+	        <fecha>"10/4/2024"</fecha>
+	        <id>"321"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No puedo instalar Visual Studio"</descripción>
+	        <urgencia>"4"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1429,13 +1741,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Laura Melendi Londra"</nombre>
 		</usuario>
-        <aula>"77"</aula>
-        <fecha>"11/8/2024"</fecha>
-        <id>"45765"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"El ordenador se ha incendiado"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Cambiar el ordenador"</propuesta>
+
+
+		<problema>
+	        <aula>"77"</aula>
+	        <fecha>"11/8/2024"</fecha>
+	        <id>"45765"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"El ordenador se ha incendiado"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Cambiar el ordenador"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1446,13 +1762,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Cristian"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"8/20/2024"</fecha>
-        <id>"79531"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"No da video el ordenador"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Revisar la tarjeta grafica"</propuesta>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"8/20/2024"</fecha>
+	        <id>"79531"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"No da video el ordenador"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Revisar la tarjeta grafica"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1463,12 +1783,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marc Martínez"</nombre>
 		</usuario>
-        <aula>"202"</aula>
-        <fecha>"10/3/2024"</fecha>
-        <id>"14378"</id>
-        <tipoP>"Fallo de Hardware"</tipoP>
-        <descripción>"Faltan componentes en el equipo"</descripción>
-        <urgencia>"10"</urgencia>
+
+
+		<problema>
+	        <aula>"202"</aula>
+	        <fecha>"10/3/2024"</fecha>
+	        <id>"14378"</id>
+	        <tipoP>"Fallo de Hardware"</tipoP>
+	        <descripción>"Faltan componentes en el equipo"</descripción>
+	        <urgencia>"10"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1479,12 +1802,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Marta Ortega Castillo"</nombre>
 		</usuario>
-        <aula>"111"</aula>
-        <fecha>"9/25/2024"</fecha>
-        <id>"80895"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"Mis archivos no se sincronizan en la nube."</descripción>
-        <urgencia>"3"</urgencia>
+
+
+		<problema>
+	        <aula>"111"</aula>
+	        <fecha>"9/25/2024"</fecha>
+	        <id>"80895"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"Mis archivos no se sincronizan en la nube."</descripción>
+	        <urgencia>"3"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1495,12 +1821,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Mark"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"10/8/2024"</fecha>
-        <id>"92587"</id>
-        <tipoP>"Problemas de Conectividad"</tipoP>
-        <descripción>"No funcionan los puertos USB de mi ordenador"</descripción>
-        <urgencia>"9"</urgencia>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"10/8/2024"</fecha>
+	        <id>"92587"</id>
+	        <tipoP>"Problemas de Conectividad"</tipoP>
+	        <descripción>"No funcionan los puertos USB de mi ordenador"</descripción>
+	        <urgencia>"9"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1511,13 +1840,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Bukele Ansu Fati"</nombre>
 		</usuario>
-        <aula>"340"</aula>
-        <fecha>"5/4/2024"</fecha>
-        <id>"76850"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"han robado el raton"</descripción>
-        <urgencia>"4"</urgencia>
-        <propuesta>"Comprar uno nuevo"</propuesta>
+
+
+		<problema>
+	        <aula>"340"</aula>
+	        <fecha>"5/4/2024"</fecha>
+	        <id>"76850"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"han robado el raton"</descripción>
+	        <urgencia>"4"</urgencia>
+	        <propuesta>"Comprar uno nuevo"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1528,12 +1861,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Uvuvwevwevwe Onyetenyevwe Ugwemubwem Ossas"</nombre>
 		</usuario>
-        <aula>"201"</aula>
-        <fecha>"10/4/2024"</fecha>
-        <id>"11897"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"No funciona el botón izquierdo del ratón"</descripción>
-        <urgencia>"8"</urgencia>
+
+
+		<problema>
+	        <aula>"201"</aula>
+	        <fecha>"10/4/2024"</fecha>
+	        <id>"11897"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"No funciona el botón izquierdo del ratón"</descripción>
+	        <urgencia>"8"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1544,13 +1880,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Pablo Iglesias Abascal"</nombre>
 		</usuario>
-        <aula>"666"</aula>
-        <fecha>"9/24/2024"</fecha>
-        <id>"8900"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"No tengo acceso a ciertas carpetas."</descripción>
-        <urgencia>"4"</urgencia>
-        <propuesta>"Solicitar permisos al administrador."</propuesta>
+
+
+		<problema>
+	        <aula>"666"</aula>
+	        <fecha>"9/24/2024"</fecha>
+	        <id>"8900"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"No tengo acceso a ciertas carpetas."</descripción>
+	        <urgencia>"4"</urgencia>
+	        <propuesta>"Solicitar permisos al administrador."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1561,12 +1901,15 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Duki"</nombre>
 		</usuario>
-        <aula>"106"</aula>
-        <fecha>"10/4/2024"</fecha>
-        <id>"98426"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"Me inicia el Windows en vez de en sistema operativo Windows"</descripción>
-        <urgencia>"5"</urgencia>
+
+
+		<problema>
+	        <aula>"106"</aula>
+	        <fecha>"10/4/2024"</fecha>
+	        <id>"98426"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"Me inicia el Windows en vez de en sistema operativo Windows"</descripción>
+	        <urgencia>"5"</urgencia>
 
     </incidencia>
     <incidencia>
@@ -1577,13 +1920,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Nicolás Soto Aguirre"</nombre>
 		</usuario>
-        <aula>"401"</aula>
-        <fecha>"10/2/2024"</fecha>
-        <id>"44545"</id>
-        <tipoP>"Problemas de Configuración"</tipoP>
-        <descripción>"La cámara no se activa durante las videollamadas."</descripción>
-        <urgencia>"3"</urgencia>
-        <propuesta>"Comprobar la configuración de la cámara en la aplicación."</propuesta>
+
+
+		<problema>
+	        <aula>"401"</aula>
+	        <fecha>"10/2/2024"</fecha>
+	        <id>"44545"</id>
+	        <tipoP>"Problemas de Configuración"</tipoP>
+	        <descripción>"La cámara no se activa durante las videollamadas."</descripción>
+	        <urgencia>"3"</urgencia>
+	        <propuesta>"Comprobar la configuración de la cámara en la aplicación."</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1594,13 +1941,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Russel Putin Alfrega"</nombre>
 		</usuario>
-        <aula>"555"</aula>
-        <fecha>"11/29/2024"</fecha>
-        <id>"86456"</id>
-        <tipoP>"Problemas de Software Educativo"</tipoP>
-        <descripción>"El Controlador de alumnos no funcionan"</descripción>
-        <urgencia>"10"</urgencia>
-        <propuesta>"Reinstalar la aplicacion"</propuesta>
+
+
+		<problema>
+	        <aula>"555"</aula>
+	        <fecha>"11/29/2024"</fecha>
+	        <id>"86456"</id>
+	        <tipoP>"Problemas de Software Educativo"</tipoP>
+	        <descripción>"El Controlador de alumnos no funcionan"</descripción>
+	        <urgencia>"10"</urgencia>
+	        <propuesta>"Reinstalar la aplicacion"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1611,13 +1962,17 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Helinge Bolukeke Han"</nombre>
 		</usuario>
-        <aula>"888"</aula>
-        <fecha>"10/4/2024"</fecha>
-        <id>"4"</id>
-        <tipoP>"Problemas de Periféricos"</tipoP>
-        <descripción>"Alguien ha golpeado la pantalla"</descripción>
-        <urgencia>"8"</urgencia>
-        <propuesta>"Cambiar la pantalla"</propuesta>
+
+
+		<problema>
+	        <aula>"888"</aula>
+	        <fecha>"10/4/2024"</fecha>
+	        <id>"4"</id>
+	        <tipoP>"Problemas de Periféricos"</tipoP>
+	        <descripción>"Alguien ha golpeado la pantalla"</descripción>
+	        <urgencia>"8"</urgencia>
+	        <propuesta>"Cambiar la pantalla"</propuesta>
+		</problema>
 
     </incidencia>
     <incidencia>
@@ -1628,15 +1983,20 @@
 	        <protDatos>"He leído la información relativa sobre la protección de datos."</protDatos>
 	        <nombre>"Miguel Torres Castro"</nombre>
 		</usuario>
-        <aula>"309"</aula>
-        <fecha>"9/24/2024"</fecha>
-        <id>"40500"</id>
-        <tipoP>"Fallo de Software"</tipoP>
-        <descripción>"Cada vez que intento abrir cualquier programa"</descripción>
-        <urgencia>"me aparece un pantallazo azul y se apaga el pc"</urgencia>
-        <propuesta>"10"</propuesta>
+
+
+		<problema>
+	        <aula>"309"</aula>
+	        <fecha>"9/24/2024"</fecha>
+	        <id>"40500"</id>
+	        <tipoP>"Fallo de Software"</tipoP>
+	        <descripción>"Cada vez que intento abrir cualquier programa"</descripción>
+	        <urgencia>"me aparece un pantallazo azul y se apaga el pc"</urgencia>
+	        <propuesta>"10"</propuesta>
+		</problema>
 	        M="https://drive.google.com/u/0/open?usp=forms_web&amp;i<nombre>1xXVe5h0Be5yWQ1XG1wnAhVZe-qmE9dET"</nombre>
 		</usuario>
+
 
     </incidencia>
 </incidencias>
