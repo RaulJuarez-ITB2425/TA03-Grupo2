@@ -28,13 +28,13 @@ try:
         propuesta = problema.find('propuesta').text.strip() if (problema.find('propuesta') is not None and
         problema.find('propuesta').text is not None) else 'No se especifica.'
 
-#Imprimos toda la informacion
-        print("\nInformación del Usuario:")
-        print(f"- Nombre: {nombre}")
+#Imprimos toda la informacion usando \n para añadir interlineados y poder leerlo mejor
+        print("\n\n- Información del Usuario:")
+        print(f"  Nombre: {nombre}")
         print(f"  Mail: {mail}")
         print(f"  Protección de Datos: {protDatos}")
-        print("\nInformación del Problema:")
-        print(f"- ID: {id_}")
+        print("\n- Información del Problema:")
+        print(f"  ID: {id_}")
         print(f"  Aula: {aula}")
         print(f"  Fecha: {fecha}")
         print(f"  Tipo de Problema: {tipoP}")
