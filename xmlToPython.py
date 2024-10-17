@@ -9,14 +9,14 @@ with open('formularioIncidenciasGrupo2.xml', 'r', encoding='utf-8') as f:
 try:
     root = ET.fromstring(contenido)
 
-    # Mostrar información del usuario
+    # Mostrar información del usuario por cada incidencia que haya en el xml
     for incidencia in root.iter('incidencia'):
         usuario = incidencia.find('usuario')
         mail = usuario.find('mail').text.strip()
         protDatos = usuario.find('protDatos').text.strip()
         nombre = usuario.find('nombre').text.strip()
 
-    # Mostrar información del problema
+    # Mostrar información del problema por cada incidencia que haya en el xml
         problema = incidencia.find('problema')
         aula = problema.find('aula').text.strip()
         fecha = problema.find('fecha').text.strip()
@@ -28,7 +28,7 @@ try:
         propuesta = problema.find('propuesta').text.strip() if (problema.find('propuesta') is not None and
         problema.find('propuesta').text is not None) else 'No se especifica.'
 
-#Imprimos toda la informacion usando \n para añadir interlineados y poder leerlo mejor
+#Imprimimos toda la informacion usando \n para añadir interlineados y poder leerlo mejor
         print("\n\n- Información del Usuario:")
         print(f"  Nombre: {nombre}")
         print(f"  Mail: {mail}")
