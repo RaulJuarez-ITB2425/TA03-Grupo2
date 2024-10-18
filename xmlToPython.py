@@ -1,8 +1,12 @@
 import xml.etree.ElementTree as eT
+import json
 
 # Leer el archivo y reemplazar entidades problemáticas
 with open('formularioIncidenciasGrupo2.xml', 'r', encoding='utf-8') as f:
     contenido = f.read()
+
+# Lista para almacenar las incidencias
+incidencias_data = []
 
 # Parsear el siguiente código
 try:
@@ -39,6 +43,30 @@ try:
         print(f"  Descripción: {descripcion}")
         print(f"  Urgencia: {urgencia}")
         print(f"  Propuesta: {propuesta}")
+
+        # Agregar la incidencia a la lista
+        incidencias_data.append({
+            'usuario': {
+                'nombre': nombre,
+                'mail': mail,
+                'protDatos': protDatos
+            },
+            'problema': {
+                'id': id_,
+                'aula': aula,
+                'fecha': fecha,
+                'tipoP': tipoP,
+                'descripcion': descripcion,
+                'urgencia': urgencia,
+                'propuesta': propuesta
+            }
+        })
+
+    # Guardar la lista de incidencias como JSON
+    with open('incidencias.json', 'w', encoding='utf-8') as jsonf:
+        json.dump(incidencias_data, jsonf, ensure_ascii=False, indent=4)
+
+    print(f"\nDatos guardados en 'incidencias.json'.")
 
 except eT.ParseError as e:
     print(f"Error al analizar el XML: {e}")
