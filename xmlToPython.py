@@ -2,15 +2,15 @@ import xml.etree.ElementTree as eT
 import json
 
 # Leer el archivo y reemplazar entidades problemáticas
-with open('formularioIncidenciasGrupo2.xml', 'r', encoding='utf-8') as f:
-    contenido = f.read()
+with open('formularioIncidenciasGrupo2.xml') as f:
+    contenidoForm = f.read()
 
 # Lista para almacenar las incidencias
-incidencias_data = []
+lista_incidencias = []
 
 # Parsear el siguiente código
 try:
-    root = eT.fromstring(contenido)
+    root = eT.fromstring(contenidoForm)
 
     # Mostrar información del usuario por cada incidencia que haya en el xml
     for incidencia in root.iter('incidencia'):
@@ -45,7 +45,7 @@ try:
         print(f"  Propuesta: {propuesta}")
 
         # Agregar la incidencia a la lista
-        incidencias_data.append({
+        lista_incidencias.append({
             'usuario': {
                 'nombre': nombre,
                 'mail': mail,
@@ -63,8 +63,8 @@ try:
         })
 
     # Guardar la lista de incidencias como JSON
-    with open('incidencias.json', 'w', encoding='utf-8') as jsonf:
-        json.dump(incidencias_data, jsonf, ensure_ascii=False, indent=4)
+    with open('incidencias.json', 'w') as jsonF:
+        json.dump(lista_incidencias, jsonF, ensure_ascii=False, indent=4)
 
     print(f"\nDatos guardados en 'incidencias.json'.")
 
