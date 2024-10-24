@@ -1704,7 +1704,7 @@
 	        <fecha>10/03/2024</fecha>
 	        <id>14378</id>
 	        <tipoP>Fallo de Hardware</tipoP>
-	        <descripción>Faltan componentes en el equipo</descripción>
+	        <descripción>Faltan componentes en el equipo.</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
