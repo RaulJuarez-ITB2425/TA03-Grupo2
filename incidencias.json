@@ -8,7 +8,7 @@
         "problema": {
             "id": "16417",
             "aula": "206",
-            "fecha": "9/2/2024",
+            "fecha": "09/02/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "Me falla el disco y no puedo iniciar el ordenador",
             "urgencia": "10",
@@ -24,7 +24,7 @@
         "problema": {
             "id": "12345",
             "aula": "206",
-            "fecha": "9/3/2024",
+            "fecha": "09/03/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No me inicia el chrome",
             "urgencia": "3",
@@ -40,7 +40,7 @@
         "problema": {
             "id": "72813",
             "aula": "206",
-            "fecha": "10/3/2024",
+            "fecha": "10/03/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No se muestra la imagen correctamente.",
             "urgencia": "9",
@@ -56,7 +56,7 @@
         "problema": {
             "id": "12345",
             "aula": "Aula 101",
-            "fecha": "10/3/2024",
+            "fecha": "10/03/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "El ordenador no enciende y presenta un sonido de pitidos al intentar iniciar.",
             "urgencia": "9",
@@ -72,7 +72,7 @@
         "problema": {
             "id": "23145",
             "aula": "206",
-            "fecha": "9/3/2024",
+            "fecha": "09/03/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "El cable HDMI se ve roto y funciona por pequeños momentos",
             "urgencia": "9",
@@ -88,7 +88,7 @@
         "problema": {
             "id": "206",
             "aula": "206",
-            "fecha": "8/1/2024",
+            "fecha": "08/01/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El monitor esta roto",
             "urgencia": "10",
@@ -104,7 +104,7 @@
         "problema": {
             "id": "7890",
             "aula": "409",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "Cada vez que abro el programa Pycharm se cierra automáticamente.",
             "urgencia": "7",
@@ -120,7 +120,7 @@
         "problema": {
             "id": "32654",
             "aula": "206",
-            "fecha": "5/1/2024",
+            "fecha": "05/01/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "Al teclado le hacen falta teclas",
             "urgencia": "8",
@@ -136,7 +136,7 @@
         "problema": {
             "id": "99232",
             "aula": "301",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No se iniciar distintos programas al iniciar sesión con mi cuenta del instituto.",
             "urgencia": "8",
@@ -152,7 +152,7 @@
         "problema": {
             "id": "47689",
             "aula": "101",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "La computadora no enciende.",
             "urgencia": "10",
@@ -168,7 +168,7 @@
         "problema": {
             "id": "23804",
             "aula": "207",
-            "fecha": "9/26/2024",
+            "fecha": "09/26/2024",
             "tipoP": "Incidencias de Seguridad",
             "descripcion": "No se bloquea correctamente la carpeta de mi dispositivo",
             "urgencia": "8",
@@ -184,7 +184,7 @@
         "problema": {
             "id": "7980",
             "aula": "105",
-            "fecha": "9/19/2024",
+            "fecha": "09/19/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "Al iniciar el sistema",
             "urgencia": "salta un pantallazo azul y se apaga automáticamente.",
@@ -200,7 +200,7 @@
         "problema": {
             "id": "44123",
             "aula": "112",
-            "fecha": "10/3/2024",
+            "fecha": "10/03/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El click izquierdo del ratón no funciona correctamente.",
             "urgencia": "6",
@@ -232,7 +232,7 @@
         "problema": {
             "id": "16123",
             "aula": "206",
-            "fecha": "4/1/2024",
+            "fecha": "04/01/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El cursor del ratón se mueve solo",
             "urgencia": "6",
@@ -264,27 +264,11 @@
         "problema": {
             "id": "15236",
             "aula": "412",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "LaBarraEspaciadoraDeMiTecladoNoFunciona",
             "urgencia": "9",
             "propuesta": "CambiarLosPeriféricosORenovarlos"
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Marta López",
-            "mail": "javier.vericat.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "66666",
-            "aula": "105",
-            "fecha": "7/1/2023",
-            "tipoP": "Fallo de Software",
-            "descripcion": "La aplicación no se abre.",
-            "urgencia": "6",
-            "propuesta": "Reinstalar la aplicación."
         }
     },
     {
@@ -296,7 +280,7 @@
         "problema": {
             "id": "16123",
             "aula": "206",
-            "fecha": "5/3/2024",
+            "fecha": "05/03/2024",
             "tipoP": "Problemas de Alimentación",
             "descripcion": "no enciende el pc",
             "urgencia": "6",
@@ -312,7 +296,7 @@
         "problema": {
             "id": "77865",
             "aula": "104",
-            "fecha": "11/1/2024",
+            "fecha": "11/01/2024",
             "tipoP": "Problemas de Alimentación",
             "descripcion": "El PC no enciende.",
             "urgencia": "9",
@@ -328,7 +312,7 @@
         "problema": {
             "id": "66273",
             "aula": "27",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "Mi sistema no se conecta a la red del centro",
             "urgencia": "9",
@@ -344,7 +328,7 @@
         "problema": {
             "id": "25390",
             "aula": "116",
-            "fecha": "9/23/2024",
+            "fecha": "09/23/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No inicia correctamente la máquina virtual.",
             "urgencia": "8",
@@ -360,7 +344,7 @@
         "problema": {
             "id": "546",
             "aula": "206",
-            "fecha": "9/11/2024",
+            "fecha": "09/11/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El monitor no enciende.",
             "urgencia": "6",
@@ -376,7 +360,7 @@
         "problema": {
             "id": "9666",
             "aula": "105",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "Google Chrome se cierra inesperadamente",
             "urgencia": "3",
@@ -392,7 +376,7 @@
         "problema": {
             "id": "46151",
             "aula": "344",
-            "fecha": "9/25/2024",
+            "fecha": "09/25/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No se ejecutan los programas",
             "urgencia": "8",
@@ -408,7 +392,7 @@
         "problema": {
             "id": "90675",
             "aula": "333",
-            "fecha": "5/1/2024",
+            "fecha": "05/01/2024",
             "tipoP": "Problemas de Configuración",
             "descripcion": "esta de color rosa",
             "urgencia": "4",
@@ -424,7 +408,7 @@
         "problema": {
             "id": "41578",
             "aula": "205",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "Algunas teclas a veces no funcionan.",
             "urgencia": "7",
@@ -440,27 +424,11 @@
         "problema": {
             "id": "15645",
             "aula": "109",
-            "fecha": "10/4/2024",
+            "fecha": "10/04/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El mouse ha dejado de funcionar",
             "urgencia": "6",
             "propuesta": "Cambiar el mouse"
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Manolo Lama Ortega",
-            "mail": "raul.juarez.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "12346",
-            "aula": "555",
-            "fecha": "6/4/2021",
-            "tipoP": "Problemas de Software Educativo",
-            "descripcion": "no funciona el students",
-            "urgencia": "8",
-            "propuesta": "hacer reset del cache"
         }
     },
     {
@@ -472,7 +440,7 @@
         "problema": {
             "id": "79112",
             "aula": "114",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Desgaste y Mantenimiento",
             "descripcion": "Algunas de las teclas del teclado se quedan atascadas.",
             "urgencia": "6",
@@ -488,7 +456,7 @@
         "problema": {
             "id": "13564",
             "aula": "206",
-            "fecha": "3/5/2024",
+            "fecha": "03/05/2024",
             "tipoP": "Problemas de Alimentación",
             "descripcion": "no funciona el pc",
             "urgencia": "10",
@@ -520,7 +488,7 @@
         "problema": {
             "id": "59909",
             "aula": "207",
-            "fecha": "10/3/2024",
+            "fecha": "10/03/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No inicia la VM",
             "urgencia": "7",
@@ -536,27 +504,11 @@
         "problema": {
             "id": "65845",
             "aula": "105",
-            "fecha": "5/3/2024",
+            "fecha": "05/03/2024",
             "tipoP": "Desgaste y Mantenimiento",
             "descripcion": "El ordenador esta demasiado viejo y desgastado",
             "urgencia": "9",
             "propuesta": "Cambiar el ordenador"
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Pepito",
-            "mail": "bryan.aguilera.7e6@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "12456",
-            "aula": "106",
-            "fecha": "2/3/2020",
-            "tipoP": "Incidencias de Seguridad",
-            "descripcion": "Los ordenadores tienen una vulnerabilidad para conseguir permisos de administradores",
-            "urgencia": "10",
-            "propuesta": "Parchear esta vulnerabilidad"
         }
     },
     {
@@ -568,7 +520,7 @@
         "problema": {
             "id": "85386",
             "aula": "301",
-            "fecha": "9/26/2024",
+            "fecha": "09/26/2024",
             "tipoP": "Problemas de Alimentación",
             "descripcion": "Se apaga el equipo constantemente.",
             "urgencia": "10",
@@ -593,22 +545,6 @@
     },
     {
         "usuario": {
-            "nombre": "Mateo Palacios",
-            "mail": "bryan.aguilera.7e6@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "32654",
-            "aula": "504",
-            "fecha": "12/3/2023",
-            "tipoP": "Fallo de Software",
-            "descripcion": "No inicia el ubuntu",
-            "urgencia": "10",
-            "propuesta": "No se especifica."
-        }
-    },
-    {
-        "usuario": {
             "nombre": "David Moles Castro",
             "mail": "raul.juarez.7e8@itb.cat",
             "protDatos": "He leído la información relativa sobre la protección de datos."
@@ -616,7 +552,7 @@
         "problema": {
             "id": "10002",
             "aula": "303",
-            "fecha": "10/3/2024",
+            "fecha": "10/03/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "Ordenador no enciende",
             "urgencia": "10",
@@ -632,7 +568,7 @@
         "problema": {
             "id": "1319",
             "aula": "105",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No funciona el click derecho del ratón",
             "urgencia": "7",
@@ -648,27 +584,11 @@
         "problema": {
             "id": "36548",
             "aula": "205",
-            "fecha": "2/3/2024",
+            "fecha": "02/03/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No funciona el raton",
             "urgencia": "9",
             "propuesta": "No se especifica."
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Castro Roman Perez",
-            "mail": "javier.vericat.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "10001",
-            "aula": "91",
-            "fecha": "6/22/2022",
-            "tipoP": "Fallo de Hardware",
-            "descripcion": "La grafica no funciona",
-            "urgencia": "9",
-            "propuesta": "Cambiar la grafica"
         }
     },
     {
@@ -680,7 +600,7 @@
         "problema": {
             "id": "32756",
             "aula": "106",
-            "fecha": "8/5/2024",
+            "fecha": "08/05/2024",
             "tipoP": "Problemas de Alimentación",
             "descripcion": "Se apaga el ordenador al momento de exigirle un poco",
             "urgencia": "10",
@@ -696,7 +616,7 @@
         "problema": {
             "id": "85477",
             "aula": "206",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No funcionan ciertos programas",
             "urgencia": "8",
@@ -712,7 +632,7 @@
         "problema": {
             "id": "78945",
             "aula": "208",
-            "fecha": "10/5/2024",
+            "fecha": "10/05/2024",
             "tipoP": "Incidencias de Seguridad",
             "descripcion": "No me deja ingresar mi contraseña en mi usuario",
             "urgencia": "10",
@@ -728,7 +648,7 @@
         "problema": {
             "id": "89",
             "aula": "101",
-            "fecha": "9/20/2024",
+            "fecha": "09/20/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "No se puede conectar a la red.",
             "urgencia": "9",
@@ -744,7 +664,7 @@
         "problema": {
             "id": "78564",
             "aula": "856",
-            "fecha": "8/5/2024",
+            "fecha": "08/05/2024",
             "tipoP": "Incidencias de Seguridad",
             "descripcion": "El usuario sjo me pide contraseña",
             "urgencia": "10",
@@ -760,7 +680,7 @@
         "problema": {
             "id": "81002",
             "aula": "211",
-            "fecha": "10/3/2024",
+            "fecha": "10/03/2024",
             "tipoP": "Problemas de Configuración",
             "descripcion": "No se guardan ciertos ajustes del sistema",
             "urgencia": "9",
@@ -776,7 +696,7 @@
         "problema": {
             "id": "40500",
             "aula": "209",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Incidencias de Seguridad",
             "descripcion": "El antivirus detecta un malware.",
             "urgencia": "10",
@@ -792,7 +712,7 @@
         "problema": {
             "id": "69854",
             "aula": "208",
-            "fecha": "8/6/2024",
+            "fecha": "08/06/2024",
             "tipoP": "Problemas de Configuración",
             "descripcion": "No tengo internet",
             "urgencia": "10",
@@ -808,7 +728,7 @@
         "problema": {
             "id": "46582",
             "aula": "201",
-            "fecha": "2/3/2024",
+            "fecha": "02/03/2024",
             "tipoP": "Problemas de Software Educativo",
             "descripcion": "No me carga el classrom",
             "urgencia": "10",
@@ -824,7 +744,7 @@
         "problema": {
             "id": "44173",
             "aula": "215",
-            "fecha": "9/25/2024",
+            "fecha": "09/25/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "No se conecta a Internet",
             "urgencia": "9",
@@ -840,7 +760,7 @@
         "problema": {
             "id": "50061",
             "aula": "206",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "La pantalla se queda en negro al encender.",
             "urgencia": "7",
@@ -856,7 +776,7 @@
         "problema": {
             "id": "65987",
             "aula": "504",
-            "fecha": "1/3/2024",
+            "fecha": "01/03/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "El cable HDMI esta verde",
             "urgencia": "10",
@@ -872,7 +792,7 @@
         "problema": {
             "id": "33056",
             "aula": "205",
-            "fecha": "9/30/2024",
+            "fecha": "09/30/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "La impresora no responde.",
             "urgencia": "4",
@@ -888,7 +808,7 @@
         "problema": {
             "id": "45687",
             "aula": "666",
-            "fecha": "5/17/2024",
+            "fecha": "05/17/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "No va el internet",
             "urgencia": "7",
@@ -904,7 +824,7 @@
         "problema": {
             "id": "49083",
             "aula": "114",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El sensor del ratón no funciona correctamente",
             "urgencia": "8",
@@ -920,7 +840,7 @@
         "problema": {
             "id": "488965",
             "aula": "205",
-            "fecha": "2/3/2024",
+            "fecha": "02/03/2024",
             "tipoP": "Problemas de Software Educativo",
             "descripcion": "No me carga la pagina del instituto",
             "urgencia": "4",
@@ -936,11 +856,11 @@
         "problema": {
             "id": "49756",
             "aula": "107",
-            "fecha": "5/3/2024",
+            "fecha": "05/03/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No funciona el teclado",
             "urgencia": "10",
-            "propuesta": "Cambiar el teclado"
+            "propuesta": "Cambiar el teclado."
         }
     },
     {
@@ -952,7 +872,7 @@
         "problema": {
             "id": "60111",
             "aula": "502",
-            "fecha": "9/27/2024",
+            "fecha": "09/27/2024",
             "tipoP": "Problemas de Configuración",
             "descripcion": "No puedo acceder a mi cuenta.",
             "urgencia": "8",
@@ -968,27 +888,11 @@
         "problema": {
             "id": "89031",
             "aula": "303",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Problemas de Alimentación",
             "descripcion": "No enciende el ordenador",
             "urgencia": "9",
             "propuesta": "Mantenimiento"
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Andres Iniesta Martinez",
-            "mail": "javier.vericat.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "58679",
-            "aula": "712",
-            "fecha": "10/20/2017",
-            "tipoP": "Fallo de Software",
-            "descripcion": "El ubuntu no funciona",
-            "urgencia": "7",
-            "propuesta": "Restaurar el equipo de fabrica"
         }
     },
     {
@@ -1000,7 +904,7 @@
         "problema": {
             "id": "12006",
             "aula": "110",
-            "fecha": "9/25/2024",
+            "fecha": "09/25/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "La aplicación tarda mucho en cargar.",
             "urgencia": "2",
@@ -1016,7 +920,7 @@
         "problema": {
             "id": "79864",
             "aula": "207",
-            "fecha": "1/9/2024",
+            "fecha": "01/09/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "El ordenador solo tiene 2 GB de memoria Ram y funciona super lento",
             "urgencia": "10",
@@ -1032,27 +936,11 @@
         "problema": {
             "id": "57316",
             "aula": "201",
-            "fecha": "9/30/2024",
+            "fecha": "09/30/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "No se conecta a Internet",
             "urgencia": "8",
             "propuesta": "No se especifica."
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Lionel Andres Messi",
-            "mail": "javier.vericat.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "90687",
-            "aula": "10",
-            "fecha": "10/23/2025",
-            "tipoP": "Incidencias de Seguridad",
-            "descripcion": "Han Hackeado el ordenador",
-            "urgencia": "9",
-            "propuesta": "Reinstalar el ubuntu"
         }
     },
     {
@@ -1064,7 +952,7 @@
         "problema": {
             "id": "35768",
             "aula": "209",
-            "fecha": "5/8/2024",
+            "fecha": "05/08/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El monitor se apaga solo",
             "urgencia": "8",
@@ -1080,7 +968,7 @@
         "problema": {
             "id": "28796",
             "aula": "456",
-            "fecha": "2/15/2024",
+            "fecha": "02/15/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "El raton no funciona",
             "urgencia": "8",
@@ -1096,7 +984,7 @@
         "problema": {
             "id": "46853",
             "aula": "106",
-            "fecha": "8/3/2024",
+            "fecha": "08/03/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No funciona el raton",
             "urgencia": "8",
@@ -1112,7 +1000,7 @@
         "problema": {
             "id": "41729",
             "aula": "204",
-            "fecha": "9/24/2024",
+            "fecha": "09/24/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "Mucho ruido de la torre",
             "urgencia": "8",
@@ -1128,7 +1016,7 @@
         "problema": {
             "id": "32645",
             "aula": "106",
-            "fecha": "10/5/2024",
+            "fecha": "10/05/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No Funcionan los altavoces",
             "urgencia": "2",
@@ -1144,27 +1032,11 @@
         "problema": {
             "id": "78312",
             "aula": "209",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Problemas de Alimentación",
             "descripcion": "No incia el equipo",
             "urgencia": "9",
             "propuesta": "No se especifica."
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Mouko Ensufatileli Botuteli",
-            "mail": "javier.vericat.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "43218",
-            "aula": "876",
-            "fecha": "10/17/2018",
-            "tipoP": "Problemas de Configuración",
-            "descripcion": "El ubuntu esta bloqueado",
-            "urgencia": "7",
-            "propuesta": "Poner la contraseña de seguridad"
         }
     },
     {
@@ -1176,7 +1048,7 @@
         "problema": {
             "id": "98746",
             "aula": "36574",
-            "fecha": "9/5/2024",
+            "fecha": "09/05/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "No me deja conectar ningún disco duro externo al ordenador",
             "urgencia": "10",
@@ -1192,7 +1064,7 @@
         "problema": {
             "id": "66054",
             "aula": "303",
-            "fecha": "9/18/2024",
+            "fecha": "09/18/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "La conexión a internet se corta frecuentemente.",
             "urgencia": "9",
@@ -1208,27 +1080,11 @@
         "problema": {
             "id": "36251",
             "aula": "107",
-            "fecha": "10/4/2024",
+            "fecha": "10/04/2024",
             "tipoP": "Desgaste y Mantenimiento",
             "descripcion": "Se sobre calienta el ordenador",
             "urgencia": "8",
             "propuesta": "Limpiar los componentes del ordenador"
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Lamine Yamal Mohamed",
-            "mail": "javier.vericat.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "76895",
-            "aula": "907",
-            "fecha": "8/4/2023",
-            "tipoP": "Incidencias de Seguridad",
-            "descripcion": "Ha entrado un virus",
-            "urgencia": "10",
-            "propuesta": "Instalar un antivirus"
         }
     },
     {
@@ -1240,7 +1096,7 @@
         "problema": {
             "id": "20355",
             "aula": "312",
-            "fecha": "9/19/2024",
+            "fecha": "09/19/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "Algunas teclas no funcionan.",
             "urgencia": "6",
@@ -1256,7 +1112,7 @@
         "problema": {
             "id": "95368",
             "aula": "106",
-            "fecha": "3/5/2024",
+            "fecha": "03/05/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "Las teclas del teclado se quedan pegadas cuando las presionas",
             "urgencia": "9",
@@ -1272,7 +1128,7 @@
         "problema": {
             "id": "71839",
             "aula": "204",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "Con funciona la rueda del ratón",
             "urgencia": "7",
@@ -1288,7 +1144,7 @@
         "problema": {
             "id": "77777",
             "aula": "40128",
-            "fecha": "7/4/2024",
+            "fecha": "07/04/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "Se han comido el cable hdmi",
             "urgencia": "6",
@@ -1304,7 +1160,7 @@
         "problema": {
             "id": "22590",
             "aula": "420",
-            "fecha": "9/11/2024",
+            "fecha": "09/11/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No se escucha nada en el ordenador.",
             "urgencia": "7",
@@ -1320,7 +1176,7 @@
         "problema": {
             "id": "69853",
             "aula": "106",
-            "fecha": "10/9/2024",
+            "fecha": "10/09/2024",
             "tipoP": "Problemas de Configuración",
             "descripcion": "La hora esta mal lleva dos horas adelantadas",
             "urgencia": "2",
@@ -1336,27 +1192,11 @@
         "problema": {
             "id": "98735",
             "aula": "110",
-            "fecha": "10/1/2024",
+            "fecha": "10/01/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "No se conecta a la red",
             "urgencia": "9",
             "propuesta": "No se especifica."
-        }
-    },
-    {
-        "usuario": {
-            "nombre": "Mohamed Ali Sukongo",
-            "mail": "javier.vericat.7e8@itb.cat",
-            "protDatos": "He leído la información relativa sobre la protección de datos."
-        },
-        "problema": {
-            "id": "47567",
-            "aula": "666",
-            "fecha": "11/13/2014",
-            "tipoP": "Fallo de Hardware",
-            "descripcion": "Han robado una grafica",
-            "urgencia": "8",
-            "propuesta": "Cambiar la grafica"
         }
     },
     {
@@ -1368,7 +1208,7 @@
         "problema": {
             "id": "64853",
             "aula": "106",
-            "fecha": "10/4/2024",
+            "fecha": "10/04/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No funciona el mouse",
             "urgencia": "5",
@@ -1384,7 +1224,7 @@
         "problema": {
             "id": "321",
             "aula": "200",
-            "fecha": "10/4/2024",
+            "fecha": "10/04/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No puedo instalar Visual Studio",
             "urgencia": "4",
@@ -1400,7 +1240,7 @@
         "problema": {
             "id": "45765",
             "aula": "77",
-            "fecha": "11/8/2024",
+            "fecha": "11/08/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "El ordenador se ha incendiado",
             "urgencia": "10",
@@ -1416,7 +1256,7 @@
         "problema": {
             "id": "79531",
             "aula": "106",
-            "fecha": "8/20/2024",
+            "fecha": "08/20/2024",
             "tipoP": "Fallo de Hardware",
             "descripcion": "No da video el ordenador",
             "urgencia": "10",
@@ -1432,9 +1272,9 @@
         "problema": {
             "id": "14378",
             "aula": "202",
-            "fecha": "10/3/2024",
+            "fecha": "10/03/2024",
             "tipoP": "Fallo de Hardware",
-            "descripcion": "Faltan componentes en el equipo",
+            "descripcion": "Faltan componentes en el equipo.",
             "urgencia": "10",
             "propuesta": "No se especifica."
         }
@@ -1448,7 +1288,7 @@
         "problema": {
             "id": "80895",
             "aula": "111",
-            "fecha": "9/25/2024",
+            "fecha": "09/25/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "Mis archivos no se sincronizan en la nube.",
             "urgencia": "3",
@@ -1464,7 +1304,7 @@
         "problema": {
             "id": "92587",
             "aula": "106",
-            "fecha": "10/8/2024",
+            "fecha": "10/08/2024",
             "tipoP": "Problemas de Conectividad",
             "descripcion": "No funcionan los puertos USB de mi ordenador",
             "urgencia": "9",
@@ -1480,7 +1320,7 @@
         "problema": {
             "id": "76850",
             "aula": "340",
-            "fecha": "5/4/2024",
+            "fecha": "05/04/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "han robado el raton",
             "urgencia": "4",
@@ -1496,7 +1336,7 @@
         "problema": {
             "id": "11897",
             "aula": "201",
-            "fecha": "10/4/2024",
+            "fecha": "10/04/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "No funciona el botón izquierdo del ratón",
             "urgencia": "8",
@@ -1512,7 +1352,7 @@
         "problema": {
             "id": "8900",
             "aula": "666",
-            "fecha": "9/24/2024",
+            "fecha": "09/24/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "No tengo acceso a ciertas carpetas.",
             "urgencia": "4",
@@ -1528,7 +1368,7 @@
         "problema": {
             "id": "98426",
             "aula": "106",
-            "fecha": "10/4/2024",
+            "fecha": "10/04/2024",
             "tipoP": "Problemas de Configuración",
             "descripcion": "Me inicia el Windows en vez de en sistema operativo Windows",
             "urgencia": "5",
@@ -1544,7 +1384,7 @@
         "problema": {
             "id": "44545",
             "aula": "401",
-            "fecha": "10/2/2024",
+            "fecha": "10/02/2024",
             "tipoP": "Problemas de Configuración",
             "descripcion": "La cámara no se activa durante las videollamadas.",
             "urgencia": "3",
@@ -1576,7 +1416,7 @@
         "problema": {
             "id": "4",
             "aula": "888",
-            "fecha": "10/4/2024",
+            "fecha": "10/04/2024",
             "tipoP": "Problemas de Periféricos",
             "descripcion": "Alguien ha golpeado la pantalla",
             "urgencia": "8",
@@ -1592,7 +1432,7 @@
         "problema": {
             "id": "40500",
             "aula": "309",
-            "fecha": "9/24/2024",
+            "fecha": "09/24/2024",
             "tipoP": "Fallo de Software",
             "descripcion": "Cada vez que intento abrir cualquier programa",
             "urgencia": "me aparece un pantallazo azul y se apaga el pc",

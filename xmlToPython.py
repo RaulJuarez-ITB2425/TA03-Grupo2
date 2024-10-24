@@ -1,12 +1,12 @@
-import xml.etree.ElementTree as eT
+import xml.etree.ElementTree as ET
 import json
-from colorama import init, Fore, Back, Style
+from colorama import init, Fore
 
 # Inicializar Colorama
 init(autoreset=True)
 
 # Leer el archivo y reemplazar entidades problemáticas
-with open('formularioIncidenciasGrupo2.xml') as f:
+with open('formularioIncidenciasGrupo2.xml', encoding='utf-8') as f:
     contenidoForm = f.read()
 
 # Lista para almacenar las incidencias
@@ -14,9 +14,9 @@ lista_incidencias = []
 
 # Parsear el siguiente código
 try:
-    root = eT.fromstring(contenidoForm)
+    root = ET.fromstring(contenidoForm)
 
-    # Preguntar al usuario si quiere filtrar por año o mostrar todas
+    # Preguntar al usuario si quiere filtrar por año o mostrar todas las incidencias
     year_user = input("Ingresa el año de la incidencia (Formato: YYYY) o escribe 'todas' para ver todas las incidencias: ")
 
     # Mostrar información del usuario por cada incidencia que haya en el xml
@@ -41,8 +41,7 @@ try:
         # Condición para filtrar por año o mostrar todas
         if year == year_user or year_user.lower() == 'todas':
             # Imprimir toda la información
-            print(Fore.RED + "-" * 85)
-            print(Fore.RED + "-" * 85)
+            print(Fore.RED + "-" * 85 + "\n" + "-" * 85)
             print(Fore.BLUE + "\033[1m- Información del Usuario:\033[0m")
             print(f"  Nombre: {nombre}")
             print(f"  Mail: {mail}")
@@ -55,8 +54,7 @@ try:
             print(f"  Descripción: {descripcion}")
             print(f"  Urgencia: {urgencia}")
             print(f"  Propuesta: {propuesta}")
-            print(Fore.RED + "-" * 85)
-            print(Fore.RED + "-" * 85)
+            print(Fore.RED + "-" * 85 + "\n" + "-" * 85)
             print(" ")
             print(" ")
 
@@ -81,7 +79,7 @@ try:
     # Verificar si hay incidencias para guardar
     if lista_incidencias:
         # Guardar la lista de incidencias como JSON
-        with open('incidencias.json', 'w') as jsonF:
+        with open('incidencias.json', 'w', encoding='utf-8') as jsonF:
             json.dump(lista_incidencias, jsonF, ensure_ascii=False, indent=4)
 
         print(Fore.CYAN + "Datos guardados en 'incidencias.json'.")
@@ -89,8 +87,5 @@ try:
         # No se guardan datos si no hay incidencias en el año ingresado
         print(Fore.YELLOW + "No se han encontrado incidencias en ese año. No se guardaron datos.")
 
-except eT.ParseError as e:
+except ET.ParseError as e:
     print(f"Error al analizar el XML: {e}")
-
-
-
