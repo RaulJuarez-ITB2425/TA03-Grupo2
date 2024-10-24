@@ -9,7 +9,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>9/2/2024</fecha>
+	        <fecha>09/02/2024</fecha>
 	        <id>16417</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>Me falla el disco y no puedo iniciar el ordenador</descripción>
@@ -28,7 +28,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>9/3/2024</fecha>
+	        <fecha>09/03/2024</fecha>
 	        <id>12345</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No me inicia el chrome</descripción>
@@ -47,7 +47,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>10/3/2024</fecha>
+	        <fecha>10/03/2024</fecha>
 	        <id>72813</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No se muestra la imagen correctamente.</descripción>
@@ -66,7 +66,7 @@
 
 		<problema>
 	        <aula>Aula 101</aula>
-	        <fecha>10/3/2024</fecha>
+	        <fecha>10/03/2024</fecha>
 	        <id>12345</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>El ordenador no enciende y presenta un sonido de pitidos al intentar iniciar.</descripción>
@@ -85,7 +85,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>9/3/2024</fecha>
+	        <fecha>09/03/2024</fecha>
 	        <id>23145</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>El cable HDMI se ve roto y funciona por pequeños momentos</descripción>
@@ -104,7 +104,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>8/1/2024</fecha>
+	        <fecha>08/01/2024</fecha>
 	        <id>206</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El monitor esta roto</descripción>
@@ -123,7 +123,7 @@
 
 		<problema>
 	        <aula>409</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>7890</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>Cada vez que abro el programa Pycharm se cierra automáticamente.</descripción>
@@ -142,7 +142,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>5/1/2024</fecha>
+	        <fecha>05/01/2024</fecha>
 	        <id>32654</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>Al teclado le hacen falta teclas</descripción>
@@ -161,7 +161,7 @@
 
 		<problema>
 	        <aula>301</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>99232</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No se iniciar distintos programas al iniciar sesión con mi cuenta del instituto.</descripción>
@@ -180,7 +180,7 @@
 
 		<problema>
 	        <aula>101</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>47689</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>La computadora no enciende.</descripción>
@@ -199,14 +199,14 @@
 
 		<problema>
 	        <aula>207</aula>
-	        <fecha>9/26/2024</fecha>
+	        <fecha>09/26/2024</fecha>
 	        <id>23804</id>
 	        <tipoP>Incidencias de Seguridad</tipoP>
 	        <descripción>No se bloquea correctamente la carpeta de mi dispositivo</descripción>
 	        <urgencia>8</urgencia>
             <propuesta></propuesta>
         </problema>
-                    
+
 
     </incidencia>
     <incidencia>
@@ -219,7 +219,7 @@
 
 		<problema>
 	        <aula>105</aula>
-	        <fecha>9/19/2024</fecha>
+	        <fecha>09/19/2024</fecha>
 	        <id>7980</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>Al iniciar el sistema</descripción>
@@ -238,7 +238,7 @@
 
 		<problema>
 	        <aula>112</aula>
-	        <fecha>10/3/2024</fecha>
+	        <fecha>10/03/2024</fecha>
 	        <id>44123</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El click izquierdo del ratón no funciona correctamente.</descripción>
@@ -276,7 +276,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>4/1/2024</fecha>
+	        <fecha>04/01/2024</fecha>
 	        <id>16123</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El cursor del ratón se mueve solo</descripción>
@@ -314,7 +314,7 @@
 
 		<problema>
 	        <aula>412</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>15236</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>LaBarraEspaciadoraDeMiTecladoNoFunciona</descripción>
@@ -333,7 +333,7 @@
 
 		<problema>
 	        <aula>105</aula>
-	        <fecha>7/1/2023</fecha>
+	        <fecha>07/01/2023</fecha>
 	        <id>66666</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>La aplicación no se abre.</descripción>
@@ -352,7 +352,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>5/3/2024</fecha>
+	        <fecha>05/03/2024</fecha>
 	        <id>16123</id>
 	        <tipoP>Problemas de Alimentación</tipoP>
 	        <descripción>no enciende el pc</descripción>
@@ -371,7 +371,7 @@
 
 		<problema>
 	        <aula>104</aula>
-	        <fecha>11/1/2024</fecha>
+	        <fecha>11/01/2024</fecha>
 	        <id>77865</id>
 	        <tipoP>Problemas de Alimentación</tipoP>
 	        <descripción>El PC no enciende.</descripción>
@@ -390,14 +390,14 @@
 
 		<problema>
 	        <aula>27</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>66273</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>Mi sistema no se conecta a la red del centro</descripción>
 	        <urgencia>9</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -409,14 +409,14 @@
 
 		<problema>
 	        <aula>116</aula>
-	        <fecha>9/23/2024</fecha>
+	        <fecha>09/23/2024</fecha>
 	        <id>25390</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No inicia correctamente la máquina virtual.</descripción>
 	        <urgencia>8</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -428,14 +428,14 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>9/11/2024</fecha>
+	        <fecha>09/11/2024</fecha>
 	        <id>546</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El monitor no enciende.</descripción>
 	        <urgencia>6</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -447,7 +447,7 @@
 
 		<problema>
 	        <aula>105</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>9666</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>Google Chrome se cierra inesperadamente</descripción>
@@ -466,14 +466,14 @@
 
 		<problema>
 	        <aula>344</aula>
-	        <fecha>9/25/2024</fecha>
+	        <fecha>09/25/2024</fecha>
 	        <id>46151</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No se ejecutan los programas</descripción>
 	        <urgencia>8</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -485,7 +485,7 @@
 
 		<problema>
 	        <aula>333</aula>
-	        <fecha>5/1/2024</fecha>
+	        <fecha>05/01/2024</fecha>
 	        <id>90675</id>
 	        <tipoP>Problemas de Configuración</tipoP>
 	        <descripción>esta de color rosa</descripción>
@@ -504,14 +504,14 @@
 
 		<problema>
 	        <aula>205</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>41578</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>Algunas teclas a veces no funcionan.</descripción>
 	        <urgencia>7</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -523,7 +523,7 @@
 
 		<problema>
 	        <aula>109</aula>
-	        <fecha>10/4/2024</fecha>
+	        <fecha>10/04/2024</fecha>
 	        <id>15645</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El mouse ha dejado de funcionar</descripción>
@@ -542,7 +542,7 @@
 
 		<problema>
 	        <aula>555</aula>
-	        <fecha>6/4/2021</fecha>
+	        <fecha>06/04/2021</fecha>
 	        <id>12346</id>
 	        <tipoP>Problemas de Software Educativo</tipoP>
 	        <descripción>no funciona el students</descripción>
@@ -561,14 +561,14 @@
 
 		<problema>
 	        <aula>114</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>79112</id>
 	        <tipoP>Desgaste y Mantenimiento</tipoP>
 	        <descripción>Algunas de las teclas del teclado se quedan atascadas.</descripción>
 	        <urgencia>6</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -580,7 +580,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>3/5/2024</fecha>
+	        <fecha>03/05/2024</fecha>
 	        <id>13564</id>
 	        <tipoP>Problemas de Alimentación</tipoP>
 	        <descripción>no funciona el pc</descripción>
@@ -618,7 +618,7 @@
 
 		<problema>
 	        <aula>207</aula>
-	        <fecha>10/3/2024</fecha>
+	        <fecha>10/03/2024</fecha>
 	        <id>59909</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No inicia la VM</descripción>
@@ -637,7 +637,7 @@
 
 		<problema>
 	        <aula>105</aula>
-	        <fecha>5/3/2024</fecha>
+	        <fecha>05/03/2024</fecha>
 	        <id>65845</id>
 	        <tipoP>Desgaste y Mantenimiento</tipoP>
 	        <descripción>El ordenador esta demasiado viejo y desgastado</descripción>
@@ -656,7 +656,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>2/3/2020</fecha>
+	        <fecha>02/03/2020</fecha>
 	        <id>12456</id>
 	        <tipoP>Incidencias de Seguridad</tipoP>
 	        <descripción>Los ordenadores tienen una vulnerabilidad para conseguir permisos de administradores</descripción>
@@ -675,7 +675,7 @@
 
 		<problema>
 	        <aula>301</aula>
-	        <fecha>9/26/2024</fecha>
+	        <fecha>09/26/2024</fecha>
 	        <id>85386</id>
 	        <tipoP>Problemas de Alimentación</tipoP>
 	        <descripción>Se apaga el equipo constantemente.</descripción>
@@ -713,14 +713,14 @@
 
 		<problema>
 	        <aula>504</aula>
-	        <fecha>12/3/2023</fecha>
+	        <fecha>12/03/2023</fecha>
 	        <id>32654</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No inicia el ubuntu</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -732,14 +732,14 @@
 
 		<problema>
 	        <aula>303</aula>
-	        <fecha>10/3/2024</fecha>
+	        <fecha>10/03/2024</fecha>
 	        <id>10002</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>Ordenador no enciende</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -751,7 +751,7 @@
 
 		<problema>
 	        <aula>105</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>1319</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No funciona el click derecho del ratón</descripción>
@@ -770,14 +770,14 @@
 
 		<problema>
 	        <aula>205</aula>
-	        <fecha>2/3/2024</fecha>
+	        <fecha>02/03/2024</fecha>
 	        <id>36548</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No funciona el raton</descripción>
 	        <urgencia>9</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -789,7 +789,7 @@
 
 		<problema>
 	        <aula>91</aula>
-	        <fecha>6/22/2022</fecha>
+	        <fecha>06/22/2022</fecha>
 	        <id>10001</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>La grafica no funciona</descripción>
@@ -808,14 +808,14 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>8/5/2024</fecha>
+	        <fecha>08/05/2024</fecha>
 	        <id>32756</id>
 	        <tipoP>Problemas de Alimentación</tipoP>
 	        <descripción>Se apaga el ordenador al momento de exigirle un poco</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -827,14 +827,14 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>85477</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No funcionan ciertos programas</descripción>
 	        <urgencia>8</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -846,14 +846,14 @@
 
 		<problema>
 	        <aula>208</aula>
-	        <fecha>10/5/2024</fecha>
+	        <fecha>10/05/2024</fecha>
 	        <id>78945</id>
 	        <tipoP>Incidencias de Seguridad</tipoP>
 	        <descripción>No me deja ingresar mi contraseña en mi usuario</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -865,7 +865,7 @@
 
 		<problema>
 	        <aula>101</aula>
-	        <fecha>9/20/2024</fecha>
+	        <fecha>09/20/2024</fecha>
 	        <id>89</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>No se puede conectar a la red.</descripción>
@@ -884,14 +884,14 @@
 
 		<problema>
 	        <aula>856</aula>
-	        <fecha>8/5/2024</fecha>
+	        <fecha>08/05/2024</fecha>
 	        <id>78564</id>
 	        <tipoP>Incidencias de Seguridad</tipoP>
 	        <descripción>El usuario sjo me pide contraseña</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -903,14 +903,14 @@
 
 		<problema>
 	        <aula>211</aula>
-	        <fecha>10/3/2024</fecha>
+	        <fecha>10/03/2024</fecha>
 	        <id>81002</id>
 	        <tipoP>Problemas de Configuración</tipoP>
 	        <descripción>No se guardan ciertos ajustes del sistema</descripción>
 	        <urgencia>9</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -922,14 +922,14 @@
 
 		<problema>
 	        <aula>209</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>40500</id>
 	        <tipoP>Incidencias de Seguridad</tipoP>
 	        <descripción>El antivirus detecta un malware.</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -941,14 +941,14 @@
 
 		<problema>
 	        <aula>208</aula>
-	        <fecha>8/6/2024</fecha>
+	        <fecha>08/06/2024</fecha>
 	        <id>69854</id>
 	        <tipoP>Problemas de Configuración</tipoP>
 	        <descripción>No tengo internet</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -960,14 +960,14 @@
 
 		<problema>
 	        <aula>201</aula>
-	        <fecha>2/3/2024</fecha>
+	        <fecha>02/03/2024</fecha>
 	        <id>46582</id>
 	        <tipoP>Problemas de Software Educativo</tipoP>
 	        <descripción>No me carga el classrom</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -979,14 +979,14 @@
 
 		<problema>
 	        <aula>215</aula>
-	        <fecha>9/25/2024</fecha>
+	        <fecha>09/25/2024</fecha>
 	        <id>44173</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>No se conecta a Internet</descripción>
 	        <urgencia>9</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -998,7 +998,7 @@
 
 		<problema>
 	        <aula>206</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>50061</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>La pantalla se queda en negro al encender.</descripción>
@@ -1017,14 +1017,14 @@
 
 		<problema>
 	        <aula>504</aula>
-	        <fecha>1/3/2024</fecha>
+	        <fecha>01/03/2024</fecha>
 	        <id>65987</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>El cable HDMI esta verde</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1036,14 +1036,14 @@
 
 		<problema>
 	        <aula>205</aula>
-	        <fecha>9/30/2024</fecha>
+	        <fecha>09/30/2024</fecha>
 	        <id>33056</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>La impresora no responde.</descripción>
 	        <urgencia>4</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1055,7 +1055,7 @@
 
 		<problema>
 	        <aula>666</aula>
-	        <fecha>5/17/2024</fecha>
+	        <fecha>05/17/2024</fecha>
 	        <id>45687</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>No va el internet</descripción>
@@ -1074,7 +1074,7 @@
 
 		<problema>
 	        <aula>114</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>49083</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El sensor del ratón no funciona correctamente</descripción>
@@ -1093,14 +1093,14 @@
 
 		<problema>
 	        <aula>205</aula>
-	        <fecha>2/3/2024</fecha>
+	        <fecha>02/03/2024</fecha>
 	        <id>488965</id>
 	        <tipoP>Problemas de Software Educativo</tipoP>
 	        <descripción>No me carga la pagina del instituto</descripción>
 	        <urgencia>4</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1112,12 +1112,12 @@
 
 		<problema>
 	        <aula>107</aula>
-	        <fecha>5/3/2024</fecha>
+	        <fecha>05/03/2024</fecha>
 	        <id>49756</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No funciona el teclado</descripción>
 	        <urgencia>10</urgencia>
-	        <propuesta>Cambiar el teclado</propuesta>
+	        <propuesta>Cambiar el teclado.</propuesta>
 		</problema>
 
     </incidencia>
@@ -1131,7 +1131,7 @@
 
 		<problema>
 	        <aula>502</aula>
-	        <fecha>9/27/2024</fecha>
+	        <fecha>09/27/2024</fecha>
 	        <id>60111</id>
 	        <tipoP>Problemas de Configuración</tipoP>
 	        <descripción>No puedo acceder a mi cuenta.</descripción>
@@ -1150,7 +1150,7 @@
 
 		<problema>
 	        <aula>303</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>89031</id>
 	        <tipoP>Problemas de Alimentación</tipoP>
 	        <descripción>No enciende el ordenador</descripción>
@@ -1188,14 +1188,14 @@
 
 		<problema>
 	        <aula>110</aula>
-	        <fecha>9/25/2024</fecha>
+	        <fecha>09/25/2024</fecha>
 	        <id>12006</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>La aplicación tarda mucho en cargar.</descripción>
 	        <urgencia>2</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1207,7 +1207,7 @@
 
 		<problema>
 	        <aula>207</aula>
-	        <fecha>1/9/2024</fecha>
+	        <fecha>01/09/2024</fecha>
 	        <id>79864</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>El ordenador solo tiene 2 GB de memoria Ram y funciona super lento</descripción>
@@ -1226,14 +1226,14 @@
 
 		<problema>
 	        <aula>201</aula>
-	        <fecha>9/30/2024</fecha>
+	        <fecha>09/30/2024</fecha>
 	        <id>57316</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>No se conecta a Internet</descripción>
 	        <urgencia>8</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1264,14 +1264,14 @@
 
 		<problema>
 	        <aula>209</aula>
-	        <fecha>5/8/2024</fecha>
+	        <fecha>05/08/2024</fecha>
 	        <id>35768</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El monitor se apaga solo</descripción>
 	        <urgencia>8</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1283,7 +1283,7 @@
 
 		<problema>
 	        <aula>456</aula>
-	        <fecha>2/15/2024</fecha>
+	        <fecha>02/15/2024</fecha>
 	        <id>28796</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>El raton no funciona</descripción>
@@ -1302,7 +1302,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>8/3/2024</fecha>
+	        <fecha>08/03/2024</fecha>
 	        <id>46853</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No funciona el raton</descripción>
@@ -1321,14 +1321,14 @@
 
 		<problema>
 	        <aula>204</aula>
-	        <fecha>9/24/2024</fecha>
+	        <fecha>09/24/2024</fecha>
 	        <id>41729</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>Mucho ruido de la torre</descripción>
 	        <urgencia>8</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1340,14 +1340,14 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>10/5/2024</fecha>
+	        <fecha>10/05/2024</fecha>
 	        <id>32645</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No Funcionan los altavoces</descripción>
 	        <urgencia>2</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1359,14 +1359,14 @@
 
 		<problema>
 	        <aula>209</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>78312</id>
 	        <tipoP>Problemas de Alimentación</tipoP>
 	        <descripción>No incia el equipo</descripción>
 	        <urgencia>9</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1397,14 +1397,14 @@
 
 		<problema>
 	        <aula>36574</aula>
-	        <fecha>9/5/2024</fecha>
+	        <fecha>09/05/2024</fecha>
 	        <id>98746</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>No me deja conectar ningún disco duro externo al ordenador</descripción>
 	        <urgencia>10</urgencia>
             <propuesta></propuesta>
         </problema>
-        
+
     </incidencia>
     <incidencia>
 
@@ -1416,7 +1416,7 @@
 
 		<problema>
 	        <aula>303</aula>
-	        <fecha>9/18/2024</fecha>
+	        <fecha>09/18/2024</fecha>
 	        <id>66054</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>La conexión a internet se corta frecuentemente.</descripción>
@@ -1435,7 +1435,7 @@
 
 		<problema>
 	        <aula>107</aula>
-	        <fecha>10/4/2024</fecha>
+	        <fecha>10/04/2024</fecha>
 	        <id>36251</id>
 	        <tipoP>Desgaste y Mantenimiento</tipoP>
 	        <descripción>Se sobre calienta el ordenador</descripción>
@@ -1454,7 +1454,7 @@
 
 		<problema>
 	        <aula>907</aula>
-	        <fecha>8/4/2023</fecha>
+	        <fecha>08/04/2023</fecha>
 	        <id>76895</id>
 	        <tipoP>Incidencias de Seguridad</tipoP>
 	        <descripción>Ha entrado un virus</descripción>
@@ -1473,7 +1473,7 @@
 
 		<problema>
 	        <aula>312</aula>
-	        <fecha>9/19/2024</fecha>
+	        <fecha>09/19/2024</fecha>
 	        <id>20355</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>Algunas teclas no funcionan.</descripción>
@@ -1492,7 +1492,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>3/5/2024</fecha>
+	        <fecha>03/05/2024</fecha>
 	        <id>95368</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>Las teclas del teclado se quedan pegadas cuando las presionas</descripción>
@@ -1511,7 +1511,7 @@
 
 		<problema>
 	        <aula>204</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>71839</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>Con funciona la rueda del ratón</descripción>
@@ -1530,7 +1530,7 @@
 
 		<problema>
 	        <aula>40128</aula>
-	        <fecha>7/4/2024</fecha>
+	        <fecha>07/04/2024</fecha>
 	        <id>77777</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>Se han comido el cable hdmi</descripción>
@@ -1549,7 +1549,7 @@
 
 		<problema>
 	        <aula>420</aula>
-	        <fecha>9/11/2024</fecha>
+	        <fecha>09/11/2024</fecha>
 	        <id>22590</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No se escucha nada en el ordenador.</descripción>
@@ -1568,7 +1568,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>10/9/2024</fecha>
+	        <fecha>10/09/2024</fecha>
 	        <id>69853</id>
 	        <tipoP>Problemas de Configuración</tipoP>
 	        <descripción>La hora esta mal lleva dos horas adelantadas</descripción>
@@ -1587,7 +1587,7 @@
 
 		<problema>
 	        <aula>110</aula>
-	        <fecha>10/1/2024</fecha>
+	        <fecha>10/01/2024</fecha>
 	        <id>98735</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>No se conecta a la red</descripción>
@@ -1625,7 +1625,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>10/4/2024</fecha>
+	        <fecha>10/04/2024</fecha>
 	        <id>64853</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No funciona el mouse</descripción>
@@ -1644,7 +1644,7 @@
 
 		<problema>
 	        <aula>200</aula>
-	        <fecha>10/4/2024</fecha>
+	        <fecha>10/04/2024</fecha>
 	        <id>321</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No puedo instalar Visual Studio</descripción>
@@ -1663,7 +1663,7 @@
 
 		<problema>
 	        <aula>77</aula>
-	        <fecha>11/8/2024</fecha>
+	        <fecha>11/08/2024</fecha>
 	        <id>45765</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>El ordenador se ha incendiado</descripción>
@@ -1682,7 +1682,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>8/20/2024</fecha>
+	        <fecha>08/20/2024</fecha>
 	        <id>79531</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>No da video el ordenador</descripción>
@@ -1701,7 +1701,7 @@
 
 		<problema>
 	        <aula>202</aula>
-	        <fecha>10/3/2024</fecha>
+	        <fecha>10/03/2024</fecha>
 	        <id>14378</id>
 	        <tipoP>Fallo de Hardware</tipoP>
 	        <descripción>Faltan componentes en el equipo</descripción>
@@ -1720,7 +1720,7 @@
 
 		<problema>
 	        <aula>111</aula>
-	        <fecha>9/25/2024</fecha>
+	        <fecha>09/25/2024</fecha>
 	        <id>80895</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>Mis archivos no se sincronizan en la nube.</descripción>
@@ -1739,7 +1739,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>10/8/2024</fecha>
+	        <fecha>10/08/2024</fecha>
 	        <id>92587</id>
 	        <tipoP>Problemas de Conectividad</tipoP>
 	        <descripción>No funcionan los puertos USB de mi ordenador</descripción>
@@ -1758,7 +1758,7 @@
 
 		<problema>
 	        <aula>340</aula>
-	        <fecha>5/4/2024</fecha>
+	        <fecha>05/04/2024</fecha>
 	        <id>76850</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>han robado el raton</descripción>
@@ -1777,7 +1777,7 @@
 
 		<problema>
 	        <aula>201</aula>
-	        <fecha>10/4/2024</fecha>
+	        <fecha>10/04/2024</fecha>
 	        <id>11897</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>No funciona el botón izquierdo del ratón</descripción>
@@ -1796,7 +1796,7 @@
 
 		<problema>
 	        <aula>666</aula>
-	        <fecha>9/24/2024</fecha>
+	        <fecha>09/24/2024</fecha>
 	        <id>8900</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>No tengo acceso a ciertas carpetas.</descripción>
@@ -1815,7 +1815,7 @@
 
 		<problema>
 	        <aula>106</aula>
-	        <fecha>10/4/2024</fecha>
+	        <fecha>10/04/2024</fecha>
 	        <id>98426</id>
 	        <tipoP>Problemas de Configuración</tipoP>
 	        <descripción>Me inicia el Windows en vez de en sistema operativo Windows</descripción>
@@ -1834,7 +1834,7 @@
 
 		<problema>
 	        <aula>401</aula>
-	        <fecha>10/2/2024</fecha>
+	        <fecha>10/02/2024</fecha>
 	        <id>44545</id>
 	        <tipoP>Problemas de Configuración</tipoP>
 	        <descripción>La cámara no se activa durante las videollamadas.</descripción>
@@ -1872,7 +1872,7 @@
 
 		<problema>
 	        <aula>888</aula>
-	        <fecha>10/4/2024</fecha>
+	        <fecha>10/04/2024</fecha>
 	        <id>4</id>
 	        <tipoP>Problemas de Periféricos</tipoP>
 	        <descripción>Alguien ha golpeado la pantalla</descripción>
@@ -1891,7 +1891,7 @@
 
 		<problema>
 	        <aula>309</aula>
-	        <fecha>9/24/2024</fecha>
+	        <fecha>09/24/2024</fecha>
 	        <id>40500</id>
 	        <tipoP>Fallo de Software</tipoP>
 	        <descripción>Cada vez que intento abrir cualquier programa</descripción>
