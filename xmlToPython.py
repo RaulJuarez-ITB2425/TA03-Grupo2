@@ -15,7 +15,6 @@ lista_incidencias = []
 # Parsear el siguiente código
 try:
     root = ET.fromstring(contenidoForm)
-
     # Preguntar al usuario si quiere filtrar por año o mostrar todas las incidencias
     year_user = input("Ingresa el año de la incidencia (Formato: YYYY) o escribe 'todas' para ver todas las incidencias: ")
 
@@ -54,9 +53,7 @@ try:
             print(f"  Descripción: {descripcion}")
             print(f"  Urgencia: {urgencia}")
             print(f"  Propuesta: {propuesta}")
-            print(Fore.RED + "-" * 85 + "\n" + "-" * 85)
-            print(" ")
-            print(" ")
+            print(Fore.RED + "-" * 85 + "\n" + "-" * 85 + "\n \n")
 
             # Agregar la incidencia a la lista
             lista_incidencias.append({
