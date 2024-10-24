@@ -42,7 +42,7 @@ try:
         if year == year_user or year_user.lower() == 'todas':
             # Imprimir toda la información
             print(Fore.RED + "-" * 85)
-            print("-" * 85)
+            print(Fore.RED + "-" * 85)
             print(Fore.BLUE + "\033[1m- Información del Usuario:\033[0m")
             print(f"  Nombre: {nombre}")
             print(f"  Mail: {mail}")
@@ -56,7 +56,7 @@ try:
             print(f"  Urgencia: {urgencia}")
             print(f"  Propuesta: {propuesta}")
             print(Fore.RED + "-" * 85)
-            print("-" * 85)
+            print(Fore.RED + "-" * 85)
             print(" ")
             print(" ")
 
