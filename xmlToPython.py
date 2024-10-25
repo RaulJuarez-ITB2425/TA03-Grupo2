@@ -91,7 +91,9 @@ try:
             if keep.upper() == 'S':
                 break
             if keep.upper() == 'N':
-                print(Fore.CYAN + "Datos guardados en 'incidencias.json'.")
+                if lista_incidencias:
+                    print(Fore.CYAN + "Datos guardados en 'incidencias.json'.")
+                    break
                 break
             else:
                 print('Tienes que escribir "S" o "N".')
